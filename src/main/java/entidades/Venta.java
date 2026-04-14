@@ -29,7 +29,7 @@ public class Venta {
         sb.append(" | ").append(producto);
         sb.append(" | ").append(categoria);
         sb.append(" | ").append(pais);
-        sb.append(" | ").append(cantidad).append(" uds x ").append(precioUnitario).append(" = ").append(getTotalLinea());
+        sb.append(" | ").append(cantidad).append(" uds x ").append(precioUnitario).append(" = ").append(getTotalLinea()).append("€");
         sb.append(" | ").append(fecha);
         sb.append(" | ").append(metodoPago);
         return sb.toString();
