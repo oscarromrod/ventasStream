@@ -1,0 +1,1001 @@
+id,nombre,categoria,pais,cantidad,precioUnitario,fecha,metodoPago
+1,Protein Powder,Fitness,Indonesia,6,643.64,2025-04-25,BIZUM
+2,Nutritional Yeast,Food - Pantry,Portugal,4,850.01,2025-11-27,BIZUM
+3,Honey Almond Granola Bars,Food - Snacks,Czech Republic,19,158.15,2025-03-17,BIZUM
+4,Comfy Slippers,Footwear,China,20,62.37,2025-05-03,TARJETA
+5,Artisan Bread Loaf,Food - Bakery,Brazil,16,184.19,2025-04-01,TARJETA
+6,Dried Mango Slices,Food - Snacks,Philippines,18,684.53,2025-02-24,TRANSFERENCIA
+7,Portable Hammock with Stand,Outdoor,China,3,252.5,2025-07-03,BIZUM
+8,Dark Chocolate Covered Raisins,Food - Snacks,Chile,17,824.87,2025-03-09,TRANSFERENCIA
+9,Italian Meatballs,Food - Meat,Colombia,7,829.21,2025-12-13,BIZUM
+10,Thai Green Curry Paste,Food - Sauces,Philippines,9,173.16,2025-08-04,BIZUM
+11,Black Olives,Food - Canned Goods,China,15,383.24,2025-10-09,BIZUM
+12,Coconut Milk,Food - Canned Goods,Cameroon,12,613.77,2025-05-01,TARJETA
+13,Baking Soda,Food - Baking,Indonesia,5,337.0,2025-05-18,TARJETA
+14,Energy Protein Bars,Food - Snacks,China,9,735.58,2026-03-28,TRANSFERENCIA
+15,Spicy Hummus,Food - Deli,Denmark,20,133.81,2025-05-18,TARJETA
+16,Garden Tool Set with Carrying Bag,Garden,Central African Republic,15,273.8,2025-11-03,TRANSFERENCIA
+17,Portable Bluetooth Keyboard,Electronics,France,11,915.9,2026-02-04,TARJETA
+18,Chilli Lime Corn on the Cob,Food - Vegetable,Brazil,14,192.74,2025-06-05,TARJETA
+19,Eco-Friendly Yoga Mat,Fitness,Armenia,11,571.52,2025-11-21,TARJETA
+20,Radish Chips,Food - Snacks,China,8,17.32,2025-08-02,TARJETA
+21,Radish Chips,Food - Snacks,Ecuador,19,277.96,2026-03-31,TRANSFERENCIA
+22,Crispy Tofu Bites,Food - Protein,Brazil,4,735.28,2026-03-20,TRANSFERENCIA
+23,Whisk Set,Kitchen,Nigeria,15,220.44,2025-02-16,TRANSFERENCIA
+24,Truffle Parmesan Fries,Food - Snacks,Japan,1,74.35,2026-01-28,TARJETA
+25,Mesh Sports Leggings,Clothing - Activewear,Greece,9,639.47,2025-06-26,BIZUM
+26,Winter Insulated Jacket,Clothing,Sweden,18,513.3,2026-01-30,TRANSFERENCIA
+27,Decorative Throw Pillows,Home,France,20,81.14,2025-08-30,BIZUM
+28,Portable Solar Phone Charger,Electronics,Philippines,8,161.98,2025-01-27,TARJETA
+29,Pet Hair Vacuum Attachment,Pets,United States,5,546.73,2025-08-12,TARJETA
+30,Magic Color-Changing Mug,Kitchen,France,7,235.71,2025-08-07,TARJETA
+31,Creamy Garlic Mashed Potatoes,Food - Sides,Tanzania,2,892.63,2025-07-15,BIZUM
+32,Red Lentils,Food - Grains,Indonesia,10,192.37,2025-05-27,BIZUM
+33,Portable Hand Warmer,Accessories,Bangladesh,16,548.71,2026-01-18,TARJETA
+34,Adjustable Skipping Rope,Fitness,Philippines,13,313.48,2025-07-03,TARJETA
+35,Crispy Chickpeas,Food - Snacks,China,5,538.2,2025-06-05,BIZUM
+36,Wall-Mounted Wine Rack,Home,France,2,833.91,2025-12-05,TRANSFERENCIA
+37,Organic Honeycrisp Apples,Food - Fruits,Brazil,15,105.43,2025-12-24,BIZUM
+38,Trendy Bomber Jacket,Clothing - Outerwear,China,20,284.12,2025-12-04,TRANSFERENCIA
+39,Classic Pesto Sauce,Food - Sauces,China,12,940.94,2026-04-02,TRANSFERENCIA
+40,Organic Baby Carrots,Food - Fresh Produce,Indonesia,12,568.96,2025-08-28,TARJETA
+41,Cauliflower Gnocchi,Food - Frozen Foods,China,17,635.43,2025-03-26,BIZUM
+42,Feta Cheese,Food - Dairy,South Africa,19,315.75,2026-03-02,TARJETA
+43,Utility Cargo Pants,Clothing - Pants,Mexico,14,250.56,2025-11-05,BIZUM
+44,Electric Stool Heater,Home,Sweden,8,978.56,2025-01-26,TRANSFERENCIA
+45,Classic Minestrone Soup,Food - Soups,Iran,14,290.95,2025-12-08,TARJETA
+46,Sporty Slide Sandals,Clothing - Footwear,Peru,10,793.52,2025-12-11,TRANSFERENCIA
+47,Chili Beans (canned),Food - Canned Goods,Canada,1,397.38,2025-01-28,BIZUM
+48,Natural Soy Candles,Home,Malawi,14,208.74,2025-04-19,TARJETA
+49,Collapsible Colander,Kitchen,Argentina,4,581.02,2025-04-21,TARJETA
+50,Whole Wheat Pasta,Food - Grains,Madagascar,1,285.11,2025-07-18,TRANSFERENCIA
+51,Smartphone Car Mount with Wireless Charging,Automotive,Portugal,18,347.02,2025-05-17,BIZUM
+52,Overnight Duffle Bag,Travel,Pakistan,5,858.27,2025-04-10,TARJETA
+53,Essential White Button-Up,Clothing - Shirts,Sweden,2,540.82,2026-02-18,BIZUM
+54,Almond Crunch Granola Bars,Food - Snacks,Portugal,16,299.53,2025-10-31,BIZUM
+55,Oven-Baked Cheese Crisps,Food - Snacks,China,16,436.55,2025-12-28,TARJETA
+56,Organic Coconut Yogurt,Food - Dairy,Indonesia,6,502.67,2025-09-18,TARJETA
+57,Buffalo Wing Sauce,Food - Condiments,China,1,40.58,2025-07-23,BIZUM
+58,Rainbow Veggie Chips,Food - Snacks,Colombia,14,852.91,2025-05-30,TARJETA
+59,Bamboo Cutting Board,Kitchen,South Africa,12,800.27,2025-10-14,TARJETA
+60,Smart Thermos,Fitness,Venezuela,19,647.18,2025-08-29,TRANSFERENCIA
+61,Vegetable Lentil Soup,Food - Canned Goods,China,5,609.35,2025-12-02,BIZUM
+62,Smart Water Bottle,Fitness,United States,15,393.17,2025-06-08,BIZUM
+63,Banana Nut Oatmeal Cups,Food - Breakfast,Indonesia,8,652.75,2025-12-21,TRANSFERENCIA
+64,Organic Brown Rice Cakes,Food - Snacks,Indonesia,20,848.86,2025-04-17,TARJETA
+65,Under Desk Footrest,Office,Poland,4,559.98,2025-02-21,TARJETA
+66,Nail Polish Set,Beauty,Indonesia,12,387.0,2026-03-27,BIZUM
+67,Chipotle Lime Salsa,Food - Condiments,China,10,765.14,2025-01-16,TARJETA
+68,Over-the-Door Shoe Organizer,Home,China,15,242.36,2026-01-19,TRANSFERENCIA
+69,Motion Sensor Light,Home,Argentina,19,600.48,2025-11-01,BIZUM
+70,Board Game,Toys,China,3,371.34,2026-04-01,TRANSFERENCIA
+71,Cinnamon Roll Dough,Food - Bakery,Nigeria,1,818.79,2025-05-27,BIZUM
+72,Maple Bacon Jerky,Food - Meat,Iran,19,116.59,2025-10-31,BIZUM
+73,Electric Fondue Pot,Kitchen,Portugal,10,266.2,2026-03-11,TRANSFERENCIA
+74,Free-Range Eggs,Food - Dairy,Mozambique,3,629.6,2025-08-23,BIZUM
+75,Walnut Halves,Food - Nuts,Russia,14,47.49,2025-02-22,BIZUM
+76,Travel Mug,Kitchen,Cambodia,1,431.99,2025-12-28,TRANSFERENCIA
+77,Vegetable Sushi Rolls,Food - Prepared Meals,Indonesia,20,915.4,2026-02-05,TARJETA
+78,Almond Butter,Food - Condiments,Japan,6,177.65,2025-09-06,TRANSFERENCIA
+79,Leather Wallet,Accessories,Brazil,17,613.8,2025-08-01,TARJETA
+80,Smart Air Purifier,Home,Argentina,13,331.22,2025-05-01,BIZUM
+81,Coconut Yogurt,Food - Dairy Alternatives,Tunisia,7,972.97,2025-09-15,TARJETA
+82,Digital Kitchen Timer,Kitchen,Kazakhstan,11,56.44,2026-01-17,TARJETA
+83,Portable Solar Generator,Outdoor,China,11,161.26,2025-09-07,TRANSFERENCIA
+84,Cocktail Shaker and Mixing Glass Set,Kitchen,Iraq,10,440.3,2025-07-27,BIZUM
+85,Rechargeable Battery Organizer,Home,Mongolia,12,179.8,2025-06-30,TRANSFERENCIA
+86,Multi-Functional Rice Cooker,Kitchen,Indonesia,12,11.39,2025-01-04,TARJETA
+87,Electric Meat Grinder,Kitchen,Russia,15,620.38,2025-01-05,TRANSFERENCIA
+88,Classic Baseball Cap,Clothing - Accessories,Indonesia,14,158.59,2025-10-16,TRANSFERENCIA
+89,Hummus Variety Pack,Food - Dairy,Colombia,19,216.54,2026-02-17,BIZUM
+90,Smart Home Security Camera,Smart Home,Poland,18,867.33,2025-03-05,BIZUM
+91,Savory Italian Herbs,Food - Spices,China,9,122.81,2026-02-08,TARJETA
+92,Chocolate Peanut Butter Cups,Food - Snacks,Iraq,15,986.37,2025-10-27,BIZUM
+93,Sweet Chili Dipping Sauce,Food - Condiments,Indonesia,9,762.46,2025-12-01,BIZUM
+94,Honey BBQ Riblets,Food - Meat,Venezuela,6,78.34,2025-06-05,TRANSFERENCIA
+95,Strawberry Banana Smoothie Pack,Food - Frozen,Indonesia,12,338.29,2025-02-16,TRANSFERENCIA
+96,Electric Screwdriver,Tools,China,2,340.26,2025-10-13,TARJETA
+97,Coconut Curry Sauce,Food - Sauces,Indonesia,19,16.5,2025-02-16,BIZUM
+98,Electric Toothbrush Holder,Health,Belarus,10,285.04,2025-03-04,BIZUM
+99,Rustic Italian Bread,Food - Bakery,China,16,874.21,2026-01-31,BIZUM
+100,Floral Summer Dress,Clothing - Dresses,Poland,12,135.79,2025-04-26,TRANSFERENCIA
+101,USB-C Hub,Computers,Armenia,1,461.08,2025-11-07,TRANSFERENCIA
+102,Adjustable Dumbbells,Fitness,Ukraine,18,776.97,2025-10-25,TARJETA
+103,Chicken Parmesan Dinner Kit,Food - Frozen Meals,China,16,755.1,2025-04-15,TARJETA
+104,Crafting Kit,Art Supplies,Indonesia,19,460.67,2026-03-08,TRANSFERENCIA
+105,Smartphone Gimbal,Electronics,China,17,540.68,2025-11-09,BIZUM
+106,Organic Blueberries,Food - Fruits,Indonesia,3,617.85,2025-10-09,BIZUM
+107,Cat Tree with Scratching Posts,Pets,Croatia,15,311.12,2025-12-11,TARJETA
+108,Apple Sauce,Food - Canned Goods,China,2,386.54,2025-03-25,TRANSFERENCIA
+109,Peach Slices in Syrup,Food - Canned Goods,Montenegro,15,882.29,2025-11-21,BIZUM
+110,Pretzel Bites,Food - Snacks,Jordan,4,142.42,2025-09-06,TARJETA
+111,Electric Heating Pad,Health,Brazil,6,781.28,2025-09-14,TARJETA
+112,Free-Range Eggs,Food - Dairy,China,19,547.85,2025-05-06,TRANSFERENCIA
+113,Karaoke Microphone,Music,Philippines,8,159.76,2026-01-23,TRANSFERENCIA
+114,Noise Reduction Headphones,Audio,Russia,14,3.08,2025-10-24,TRANSFERENCIA
+115,Wireless Car Charger,Automotive,Ukraine,3,81.13,2025-07-23,BIZUM
+116,Bamboo Memory Foam Pillow,Home,China,11,830.87,2025-11-14,BIZUM
+117,Thai Peanut Noodles,Food - Pasta,Panama,18,31.9,2026-03-04,BIZUM
+118,LED Flashing Pet Collar,Pets,Indonesia,2,508.22,2025-08-28,BIZUM
+119,Car Vacuum,Automotive,Gabon,8,844.7,2025-04-23,TRANSFERENCIA
+120,Streaming Device,Electronics,Croatia,5,853.61,2025-03-23,BIZUM
+121,Surimi Crab Sticks,Food - Seafood,Peru,8,835.29,2025-03-19,TRANSFERENCIA
+122,Sporty Leggings,Clothing - Activewear,Peru,18,539.13,2026-02-28,BIZUM
+123,Portable Refrigerator Freezer,Outdoor,Brazil,6,432.0,2025-06-04,BIZUM
+124,Leather Biker Jacket,Clothing - Outerwear,Norway,17,4.61,2025-02-08,BIZUM
+125,Memory Foam Mattress Topper,Home,China,9,818.1,2025-06-12,TRANSFERENCIA
+126,Frozen Cauliflower Rice,Food - Frozen Foods,Senegal,8,287.41,2025-11-14,TRANSFERENCIA
+127,Coconut Cashew Yogurt,Food - Dairy Alternatives,France,12,72.55,2026-01-09,TARJETA
+128,Dish Rack,Kitchen,China,13,706.28,2025-01-12,BIZUM
+129,Beard Grooming Kit,Grooming,Brazil,4,817.36,2025-04-18,BIZUM
+130,Almond Flour Brownies,Food - Baking,Peru,17,566.34,2025-04-29,TARJETA
+131,Heated Throw Blanket,Home,China,16,730.95,2025-10-29,TARJETA
+132,Honey Almond Granola Bars,Food - Snacks,Norway,2,518.69,2025-02-15,TRANSFERENCIA
+133,Stylish Wireless Earbuds,Audio,Indonesia,11,284.52,2025-12-14,BIZUM
+134,Magnetic Spice Containers,Kitchen,Peru,1,235.18,2025-03-23,BIZUM
+135,Coconut Cream Pie,Food - Bakery,South Korea,12,453.84,2025-09-16,TARJETA
+136,Honey Garlic Shrimp,Food - Seafood,Ecuador,6,771.52,2025-05-05,TRANSFERENCIA
+137,Ice Cube Tray with Lid,Kitchen,Croatia,18,666.01,2026-02-11,BIZUM
+138,Avocado Oil,Food - Oils,China,17,646.33,2025-12-06,TARJETA
+139,Portable Pet Pooper Scooper,Pets,China,13,465.55,2025-09-02,TRANSFERENCIA
+140,Digital Food Scale,Kitchen,Central African Republic,3,620.94,2025-02-27,BIZUM
+141,Luxury Bath Robe,Clothing,China,10,927.85,2025-05-31,TARJETA
+142,Emergency Preparedness Kit,Safety,Poland,12,701.74,2025-01-19,BIZUM
+143,High-Speed Hand Blender,Kitchen,Libya,8,101.45,2025-08-24,TRANSFERENCIA
+144,Salsa Verde,Food - Condiments,China,7,860.12,2025-05-04,TARJETA
+145,Smart Plug,Smart Home,France,2,592.32,2025-02-10,TRANSFERENCIA
+146,Baby Monitor,Baby,Indonesia,12,494.45,2026-03-25,BIZUM
+147,Berry Smoothie Mix,Food - Frozen Foods,Czech Republic,3,421.16,2025-07-05,TRANSFERENCIA
+148,Multifunctional Pocket Tool,Tools,Russia,5,913.36,2025-11-10,TARJETA
+149,Waterproof Rain Boots,Clothing - Footwear,Philippines,8,1.39,2025-09-23,TRANSFERENCIA
+150,Chickpea Salad Deluxe,Food - Produce,Sweden,17,435.15,2025-06-09,TARJETA
+151,Kettle Chip Variety Pack,Food - Snacks,Philippines,16,465.98,2025-10-30,BIZUM
+152,Adjustable Dog Harness,Pets,Canada,2,775.82,2025-11-17,TARJETA
+153,Portable Air Compressor,Automotive,China,10,959.37,2025-06-04,TRANSFERENCIA
+154,Protein Pancake Mix,Food - Breakfast,China,14,181.82,2025-02-19,TRANSFERENCIA
+155,Roasted Garlic Butter,Food - Condiments,China,7,208.29,2025-10-28,TRANSFERENCIA
+156,Sweet Potato and Chickpea Bowl,Food - Frozen Food,Thailand,18,606.81,2025-10-03,BIZUM
+157,Decorative Wall Tapestry,Home,Poland,16,215.23,2025-06-18,TARJETA
+158,Buffalo Sauce,Food - Condiments,Libya,3,405.65,2025-07-12,TARJETA
+159,Wireless Charging Pad,Accessories,Philippines,13,116.62,2025-08-20,TRANSFERENCIA
+160,Over-the-Door Hooks,Home,Indonesia,16,620.58,2025-03-01,TARJETA
+161,Stainless Steel Grater,Kitchen,Andorra,17,438.66,2025-02-12,TARJETA
+162,Educational STEM Kit,Toys,China,4,529.73,2025-02-03,TARJETA
+163,Sketchbook,Art Supplies,Portugal,13,702.49,2025-09-30,TARJETA
+164,Pasta (Fusilli),Food - Pasta,China,20,883.39,2025-06-19,TARJETA
+165,Elderberry Syrup Kit,Health,Serbia,19,563.3,2025-01-09,BIZUM
+166,Cheddar Cheese Crackers,Food - Snacks,China,7,831.92,2026-02-08,TRANSFERENCIA
+167,Folding Exercise Bike,Fitness,Sweden,20,706.79,2025-09-03,BIZUM
+168,Honey BBQ Ribs,Food - Meat,Vietnam,6,16.52,2025-09-20,TRANSFERENCIA
+169,Protein Powder,Fitness,China,9,279.76,2025-08-18,TRANSFERENCIA
+170,Board Game Storage,Toys,Portugal,13,710.16,2025-02-20,TARJETA
+171,Scent Diffuser Oil,Home,China,8,268.36,2026-03-04,TRANSFERENCIA
+172,Almond Flour Pancake Mix,Food - Baking,Armenia,18,88.9,2025-10-08,BIZUM
+173,Camping Chair with Cooler,Outdoor,Indonesia,1,526.64,2025-10-09,TRANSFERENCIA
+174,Magnet Travel Fridge Magnets,Accessories,Russia,16,196.12,2025-04-12,TARJETA
+175,Portable Jump Starter,Automotive,Russia,8,753.7,2025-09-28,TRANSFERENCIA
+176,Mashed Sweet Potatoes,Food - Sides,Indonesia,15,389.76,2025-12-16,BIZUM
+177,Camping Tarp,Outdoor,Indonesia,9,613.53,2025-05-19,TARJETA
+178,Insulated Wine Tote,Accessories,China,3,564.41,2026-01-19,TARJETA
+179,Vegan Mayonnaise,Food - Condiments,Greece,3,944.9,2025-10-01,TARJETA
+180,Body Pillow Case,Home,Poland,20,773.43,2025-08-25,TARJETA
+181,Banana Chips,Food - Snacks,Thailand,3,437.55,2025-09-14,TARJETA
+182,Homestyle Beef Stew,Food - Canned Soups,China,16,645.07,2025-02-10,TARJETA
+183,Almond Joy Munch Bars,Food - Snacks,Poland,4,973.88,2025-08-08,TRANSFERENCIA
+184,Sporty Leggings,Clothing - Activewear,Ireland,16,936.34,2025-10-07,TARJETA
+185,Savory Oatmeal Cups,Food - Breakfast,Indonesia,11,262.5,2025-09-01,TARJETA
+186,Organic Blueberries,Food - Fruits,Poland,20,977.14,2025-11-29,TARJETA
+187,Halloween Decoration Set,Home,Panama,9,664.29,2025-12-30,TRANSFERENCIA
+188,Children's Garden Tool Set,Garden,Russia,20,520.37,2025-11-17,TRANSFERENCIA
+189,Homestyle Chicken Noodle Soup,Food - Canned Goods,Jordan,15,980.84,2025-06-28,TRANSFERENCIA
+190,Non-Stick Baking Sheet,Kitchen,Sweden,18,891.29,2025-01-21,TARJETA
+191,Sourdough Bread,Food - Bakery,China,20,860.34,2025-06-11,TRANSFERENCIA
+192,Sun-Dried Tomato Pesto,Food - Condiments,United States,10,615.33,2025-01-12,TRANSFERENCIA
+193,Voice-Controlled Speaker,Audio,Portugal,8,161.16,2026-01-21,TRANSFERENCIA
+194,Dark Chocolate Covered Almonds,Food - Snacks,Ecuador,10,143.8,2025-06-21,TRANSFERENCIA
+195,Artisan Pickles,Food - Condiments,Bulgaria,12,638.33,2025-09-13,TRANSFERENCIA
+196,Cotton Pajama Set,Clothing - Loungewear,Canada,15,88.96,2025-08-04,TRANSFERENCIA
+197,Chocolate Avocado Pudding,Food - Desserts,Liechtenstein,2,939.99,2025-11-08,TRANSFERENCIA
+198,Non-Stick Baking Sheet,Kitchen,Iraq,1,872.19,2025-03-25,TRANSFERENCIA
+199,Homestyle Beef Stew,Food - Canned Soups,Indonesia,9,755.7,2025-04-16,TRANSFERENCIA
+200,Thai Peanut Dressing,Food - Condiments,Indonesia,9,263.86,2025-11-22,TRANSFERENCIA
+201,Fleece Lined Leggings,Clothing,Indonesia,7,831.44,2025-08-31,TARJETA
+202,Organic Coconut Oil,Food - Oils,Sweden,8,121.65,2026-02-15,TARJETA
+203,Instant Mashed Potatoes,Food - Sides,Nigeria,8,473.93,2025-01-05,TARJETA
+204,Coconut Cashew Yogurt,Food - Dairy Alternatives,Indonesia,2,895.13,2025-03-28,BIZUM
+205,Insulated Lunch Box,Kitchen,El Salvador,15,953.5,2025-05-09,TRANSFERENCIA
+206,Indoor Plants,Garden,Indonesia,10,929.53,2025-06-23,TARJETA
+207,Oven-Baked Sweet Potato Fries,Food - Frozen Foods,China,4,355.24,2025-08-15,TARJETA
+208,Bike Helmet,Bicycles,China,3,372.72,2026-01-09,TARJETA
+209,Vegetarian Stuffed Peppers,Food - Prepared Foods,Russia,13,532.2,2025-09-09,TARJETA
+210,Chickpea Salad,Food - Prepared Foods,Portugal,11,641.58,2025-06-15,TRANSFERENCIA
+211,Garden Kneeler and Seat,Garden,China,7,94.66,2025-01-01,TARJETA
+212,Handmade Leather Journal,Books,Thailand,5,1.93,2025-04-30,BIZUM
+213,Almond Butter Cookies,Food - Snacks,Honduras,13,303.66,2025-09-15,TARJETA
+214,Classic Caesar Dressing,Food - Condiments,Nigeria,1,625.22,2025-02-24,TRANSFERENCIA
+215,Asian Salad Mix,Food - Produce,Tanzania,20,11.22,2025-06-01,BIZUM
+216,Pet Grooming Scissors,Pets,Niger,6,87.11,2026-03-31,TRANSFERENCIA
+217,Classic Caesar Salad Kit,Food - Salads,Macedonia,1,706.48,2026-01-22,TRANSFERENCIA
+218,Peach Slices in Syrup,Food - Canned Goods,China,9,904.84,2025-01-27,TARJETA
+219,Spinach and Cheese Stuffed Shells,Food - Frozen Meals,Ukraine,2,534.6,2025-03-17,BIZUM
+220,Personal Blender,Kitchen,Poland,15,958.47,2025-02-12,TRANSFERENCIA
+221,Pineapple Coconut Bars,Food - Snacks,Philippines,16,140.66,2026-03-01,BIZUM
+222,Peach Yogurt,Food - Dairy,Indonesia,15,201.59,2025-12-03,TARJETA
+223,Chocolate Chip Energy Balls,Food - Snacks,Cape Verde,8,277.0,2025-10-25,TRANSFERENCIA
+224,Travel Mug,Kitchen,Russia,13,365.2,2025-05-10,TRANSFERENCIA
+225,Sparkling Blood Orange Soda,Food - Beverages,Philippines,13,60.69,2025-06-27,BIZUM
+226,Camping Chair,Outdoor,China,2,366.75,2025-10-24,TRANSFERENCIA
+227,Wall-Mounted Bookshelf,Home,United States,5,838.92,2025-02-25,TARJETA
+228,Dried Cranberries,Food - Snacks,Indonesia,15,374.35,2025-07-01,TARJETA
+229,DIY Lip Balm Making Kit,Crafts,Lebanon,20,736.28,2026-02-10,BIZUM
+230,Rice Cakes,Food - Snacks,China,3,365.78,2025-12-19,TARJETA
+231,Vegetable Fried Rice,Food - Frozen Foods,Iran,15,503.02,2025-02-06,BIZUM
+232,Herb Drying Rack,Garden,Portugal,9,956.09,2026-02-26,TRANSFERENCIA
+233,Chocolate Chip Cliff Bars,Food - Snacks,Philippines,7,32.24,2025-07-31,TRANSFERENCIA
+234,Handheld Shower Head,Bathroom,Tanzania,17,964.94,2025-04-28,TARJETA
+235,Peanut Butter Pretzel Nuggets,Food - Snacks,France,11,866.05,2025-09-16,TARJETA
+236,Strawberry Fruit Spread,Food - Jams & Jellies,Brazil,12,290.8,2025-07-31,TARJETA
+237,Solar String Lights,Outdoor,Afghanistan,6,981.33,2025-06-06,BIZUM
+238,Shredded Cheese,Food - Dairy,Ireland,11,431.4,2025-03-11,TRANSFERENCIA
+239,Manual Coffee Grinder,Kitchen,Czech Republic,16,833.9,2025-10-09,TRANSFERENCIA
+240,Electronic Drum Kit,Music,Chile,7,426.24,2026-03-05,TARJETA
+241,Organic Almond Flour,Food - Baking,Brazil,17,958.51,2026-02-20,TRANSFERENCIA
+242,Magnetic Screen Door,Outdoor,China,3,450.52,2025-04-25,TRANSFERENCIA
+243,Blender Bottle,Fitness,Uzbekistan,1,545.44,2026-03-20,TRANSFERENCIA
+244,Fishing Tackle Box,Outdoor,Russia,4,203.8,2025-02-13,TARJETA
+245,Portable Pet Pooper Scooper,Pets,Sweden,4,259.94,2025-01-07,BIZUM
+246,Frozen Berry Medley,Food - Frozen Foods,Philippines,4,679.96,2025-05-16,TARJETA
+247,Vanilla Ice Cream,Food - Frozen Foods,Argentina,17,2.51,2025-10-31,TRANSFERENCIA
+248,Italian Marinara Sauce,Food - Sauces,Philippines,10,522.92,2025-02-27,BIZUM
+249,Dark Chocolate Raisins,Food - Snacks,Kosovo,13,995.82,2026-02-12,BIZUM
+250,Black Bean & Corn Salad,Food - Salads,Indonesia,1,219.09,2025-08-01,BIZUM
+251,Handmade Leather Wallet,Accessories,China,8,195.53,2025-05-06,BIZUM
+252,Electric Hot Water Dispenser,Kitchen,Malawi,8,846.17,2025-02-12,TARJETA
+253,Classic Caesar Dressing,Food - Condiments,China,4,51.92,2025-10-02,TARJETA
+254,Avocados,Food - Produce,South Korea,13,724.3,2025-07-03,TARJETA
+255,Wireless Charging Station,Electronics,Indonesia,15,234.77,2025-01-20,TARJETA
+256,Raspberry Lemonade Mix,Food - Beverages,Netherlands,1,100.93,2025-04-16,BIZUM
+257,Kids' Science Experiment Kit,Toys,China,14,792.92,2025-08-17,TRANSFERENCIA
+258,Cinnamon Spiced Almonds,Food - Snacks,Azerbaijan,18,966.09,2025-10-17,TRANSFERENCIA
+259,Honey Garlic Shrimp,Food - Seafood,Portugal,11,98.52,2026-02-01,TRANSFERENCIA
+260,Pet Travel Bowl,Pets,Ireland,4,35.85,2025-08-22,TRANSFERENCIA
+261,Flavored Instant Oatmeal,Food - Breakfast,Poland,4,106.39,2026-01-02,BIZUM
+262,Compact Folding Table,Outdoor,Chile,20,913.83,2025-09-02,TRANSFERENCIA
+263,Pumpkin Waffles,Food - Breakfast,Liberia,3,838.99,2025-07-06,TARJETA
+264,Pet Travel Bowl,Pets,Greece,20,632.94,2025-07-08,TRANSFERENCIA
+265,Couscous Mix,Food - Grains,Mexico,15,282.61,2026-02-10,BIZUM
+266,Nutritional Yeast,Food - Pantry,Thailand,14,877.4,2025-08-01,TRANSFERENCIA
+267,Multi-Layer Food Steamer,Kitchen,Madagascar,12,550.65,2025-12-09,BIZUM
+268,Portable Ice Maker,Kitchen,Sweden,3,223.91,2025-02-04,BIZUM
+269,Asian Noodle Salad Kit,Food - Salads,Thailand,19,329.01,2026-02-09,TRANSFERENCIA
+270,Pretzel Bites,Food - Snacks,Philippines,7,836.36,2025-04-12,TARJETA
+271,Tandoori Chicken Marinade,Food - Condiments,Swaziland,3,249.86,2025-02-08,TARJETA
+272,Travel Hair Straightener,Beauty,Philippines,8,612.02,2025-06-04,BIZUM
+273,Maple Bacon Jerky,Food - Meat,United States,20,254.89,2026-01-16,BIZUM
+274,Organic Granola,Food - Breakfast,Russia,7,124.37,2025-09-30,TRANSFERENCIA
+275,Teriyaki Stir-Fry Sauce,Food - Condiments,China,5,303.31,2025-07-07,TARJETA
+276,Chili Garlic Sauce,Food - Condiments,China,16,870.27,2026-03-24,TRANSFERENCIA
+277,Fitness Tracker,Fitness,China,18,515.57,2025-09-22,BIZUM
+278,Vegetarian Pizza,Food - Frozen Foods,Indonesia,16,971.17,2025-09-21,BIZUM
+279,Green Smoothie Mix,Food - Beverages,Brazil,8,494.32,2026-02-07,TARJETA
+280,Spinach and Cheese Quiche,Food - Prepared Meals,Indonesia,4,907.43,2025-11-24,TARJETA
+281,Canned Black Beans,Food - Canned Goods,Paraguay,6,962.88,2025-06-03,TRANSFERENCIA
+282,Vegan Chickpea Salad,Food - Prepared Foods,Sweden,16,180.21,2025-06-25,TARJETA
+283,Organic Cereal Bars,Food - Snacks,Philippines,5,142.75,2025-01-21,TARJETA
+284,Cucumber Lime Sparkling Water,Food - Beverages,China,15,873.45,2025-05-27,TRANSFERENCIA
+285,Inflatable Pool Float,Outdoor,China,18,189.37,2026-03-20,TARJETA
+286,Water-Resistant Bluetooth Speaker,Audio,Ukraine,15,202.32,2025-05-07,TARJETA
+287,Motion Sensor Light,Home,Indonesia,17,2.13,2025-01-21,BIZUM
+288,Veggie Chips Variety Pack,Food - Snacks,China,6,664.6,2026-02-21,BIZUM
+289,Herb Seasoned Croutons,Food - Salad Toppings,France,10,661.41,2025-04-03,BIZUM
+290,Sweet Potato Tots,Food - Frozen Foods,Canada,3,782.69,2025-12-18,BIZUM
+291,Vegan Protein Powder,Health,Russia,3,692.66,2025-03-06,BIZUM
+292,Travel Eye Mask with Ear Plugs,Travel,China,16,333.89,2026-02-21,TARJETA
+293,Folding Exercise Bike,Fitness,Ukraine,8,649.98,2025-08-04,BIZUM
+294,Kale Caesar Salad Kit,Food - Salads,Portugal,8,365.68,2025-12-04,TARJETA
+295,Garden Tool Set with Carrying Bag,Garden,Indonesia,12,842.81,2025-03-24,TARJETA
+296,Portable Pet Water Bottle,Pets,Portugal,19,880.39,2025-02-09,TARJETA
+297,Vegetable Stir Fry Mix,Food - Fresh Produce,Mexico,4,472.52,2025-11-10,BIZUM
+298,Peach Preserves,Food - Condiments,Russia,6,96.61,2026-03-11,TRANSFERENCIA
+299,Mini Cordless Vacuum Cleaner,Home Appliances,Poland,18,26.08,2025-11-28,BIZUM
+300,Whole Wheat Bread,Food - Bakery,Macedonia,17,744.71,2025-04-23,TARJETA
+301,Mayonnaise,Food - Condiments,United States,11,591.16,2025-05-02,BIZUM
+302,Backpacking Tent,Outdoor,Sierra Leone,11,73.58,2025-07-17,TRANSFERENCIA
+303,Chickpeas,Food - Canned Goods,Latvia,5,656.62,2025-06-25,TARJETA
+304,Apricot Jam,Food - Condiments,Panama,2,437.75,2025-03-19,TRANSFERENCIA
+305,High-Low Hem Tee,Clothing - Tops,Argentina,11,488.82,2025-08-18,BIZUM
+306,Dog Training Whistle,Pets,Venezuela,18,598.44,2025-08-09,BIZUM
+307,Almond Joy Munch Bars,Food - Snacks,Ukraine,8,113.53,2025-04-11,BIZUM
+308,Electric Stool Heater,Home,Brazil,1,357.4,2025-05-10,TARJETA
+309,Foot Massager,Health,Malaysia,10,820.33,2026-02-03,TRANSFERENCIA
+310,Scented Candles,Home,Portugal,5,924.54,2026-02-10,TARJETA
+311,LED Under Cabinet Lighting,Home,Russia,14,431.52,2026-02-12,TRANSFERENCIA
+312,Frozen Burritos,Food - Frozen Foods,Poland,17,524.35,2025-07-08,BIZUM
+313,Party Mini Dress,Clothing - Dresses,China,14,762.08,2025-05-02,BIZUM
+314,Sunflower Seeds,Food - Nuts,Indonesia,11,77.75,2025-12-03,TRANSFERENCIA
+315,Portable SSD,Storage,Zambia,8,175.56,2026-02-16,TARJETA
+316,USB-C Hub,Computers,China,13,762.74,2025-06-08,TARJETA
+317,Kids' Activity Book,Books,Japan,10,734.15,2025-03-21,TRANSFERENCIA
+318,Creamy Spinach Dip,Food - Prepared Foods,Russia,6,132.7,2025-08-07,BIZUM
+319,Roasted Red Pepper Hummus,Food - Dips,China,6,457.28,2025-04-09,BIZUM
+320,Raspberry Vanilla Greek Yogurt,Food - Dairy,Russia,15,957.16,2025-09-14,TRANSFERENCIA
+321,Organic Cereal Bars,Food - Snacks,United Arab Emirates,10,180.66,2026-01-25,TARJETA
+322,Slim Fit Chinos,Clothing - Pants,Indonesia,12,478.84,2025-06-23,TARJETA
+323,Peas (frozen),Food - Frozen Foods,Japan,10,368.59,2026-01-11,BIZUM
+324,Terry Cloth Robe,Clothing - Loungewear,Portugal,1,608.33,2026-03-08,BIZUM
+325,Cinnamon Sugar Mix,Food - Baking,China,11,225.68,2025-10-31,TARJETA
+326,Digital Food Thermometer,Kitchen,Morocco,12,439.1,2025-06-19,TRANSFERENCIA
+327,Honeycrisp Apple Chips,Food - Snacks,China,16,351.81,2025-12-28,TARJETA
+328,Mayonnaise,Food - Condiments,Indonesia,9,502.83,2025-02-09,TRANSFERENCIA
+329,Frozen Berry Medley,Food - Frozen Foods,Indonesia,2,42.38,2025-01-27,TARJETA
+330,Fresh Lemons,Food - Fresh Produce,Spain,12,424.54,2025-08-19,TARJETA
+331,Sweet Cherry Tomatoes,Food - Produce,Russia,7,939.54,2026-01-29,TRANSFERENCIA
+332,Avocado Oil,Food - Oils,China,9,805.01,2025-01-07,TARJETA
+333,Oatmeal Raisin Cookies,Food - Baked Goods,Russia,2,368.87,2026-02-03,TARJETA
+334,Organic Coconut Sugar,Food - Baking Goods,Canada,1,999.25,2025-07-04,BIZUM
+335,LED Strip Lights with Remote Control,Home,Yemen,20,887.34,2025-06-17,TARJETA
+336,Kids' STEM Robotics Kit,Toys,Peru,3,497.8,2025-05-14,TARJETA
+337,Chocolate Peanut Butter Cups,Food - Snacks,Greece,15,40.12,2025-10-12,TRANSFERENCIA
+338,Phone Case,Accessories,China,14,132.84,2025-01-09,BIZUM
+339,Sun-Dried Tomato Pesto,Food - Condiments,Poland,9,829.27,2025-05-31,BIZUM
+340,Fitbit Activity Tracker,Fitness,China,13,388.37,2025-07-20,BIZUM
+341,Organic Italian Seasoning,Food - Spices,Sweden,17,747.0,2025-10-21,TRANSFERENCIA
+342,Puzzle 3D Model Kit,Toys,China,20,919.98,2025-03-10,BIZUM
+343,Free-Range Eggs,Food - Dairy,Philippines,17,695.35,2025-04-08,TRANSFERENCIA
+344,Cinnamon Roll Protein Bar,Food - Snacks,China,15,814.38,2025-06-23,BIZUM
+345,Nut Mix,Food - Snacks,United States,15,901.5,2025-07-06,TRANSFERENCIA
+346,Frozen Spinach,Food - Frozen Foods,Kazakhstan,13,721.43,2025-06-08,BIZUM
+347,Mesh Laundry Bags Set,Home,Russia,17,643.74,2025-11-02,TRANSFERENCIA
+348,Weighted Jump Rope with Counter,Fitness,Ethiopia,3,190.66,2025-06-06,TRANSFERENCIA
+349,Garden Hose,Garden,China,17,557.37,2025-04-26,BIZUM
+350,Acoustic Guitar,Music,Sweden,5,285.23,2025-09-09,TRANSFERENCIA
+351,Home Karaoke System,Audio,Poland,20,966.84,2026-02-03,TRANSFERENCIA
+352,Coffee Capsule Dispenser,Kitchen,Brazil,6,243.48,2026-03-12,TARJETA
+353,Collapsible Camping Cup,Outdoor,Indonesia,4,47.99,2025-09-01,TRANSFERENCIA
+354,Essential Oil Diffuser,Health,France,19,229.82,2025-02-20,TARJETA
+355,Smart Air Purifier,Home,Macedonia,19,782.52,2026-02-27,TRANSFERENCIA
+356,LED Table Lamp,Home,Nigeria,4,42.41,2025-03-10,BIZUM
+357,Stuffed Bell Peppers,Food - Frozen Meals,Indonesia,11,277.24,2026-02-20,BIZUM
+358,Compact Electric Kettle,Kitchen,Vietnam,6,645.73,2026-02-10,BIZUM
+359,Classic Watch,Accessories,Poland,20,103.54,2025-03-19,TARJETA
+360,Puzzle,Toys,France,18,374.4,2026-01-06,BIZUM
+361,Dried Cranberries,Food - Snacks,China,5,99.36,2025-02-04,TARJETA
+362,Pumpkin Spice Pancake Mix,Food - Breakfast,Brazil,4,660.7,2026-01-03,TRANSFERENCIA
+363,Kettle BBQ Grill,Outdoor,Sweden,12,421.16,2025-11-07,TARJETA
+364,Electric Griddle with Removable Plates,Kitchen,Russia,4,257.47,2025-12-30,TARJETA
+365,Herbal Tea Variety Pack,Food - Beverages,Costa Rica,10,548.64,2025-05-11,BIZUM
+366,Teriyaki Chicken Wings,Food - Frozen Food,Brazil,19,808.32,2026-03-29,BIZUM
+367,Fleece Throw Blanket,Home,China,11,933.92,2026-01-18,TRANSFERENCIA
+368,Chocolate Coconut Protein Balls,Food - Snacks,Brazil,11,586.4,2025-08-07,TARJETA
+369,Vegetarian Chili,Food - Canned Goods,Malta,4,996.84,2025-10-15,TRANSFERENCIA
+370,Chocolate Mint Thins,Food - Snacks,Nicaragua,8,560.48,2025-11-26,TRANSFERENCIA
+371,Bamboo Charcoal Air Purifier Bags,Home,China,10,489.72,2025-03-24,BIZUM
+372,Frozen Mixed Vegetables,Food - Frozen,Kiribati,20,187.65,2025-06-28,TRANSFERENCIA
+373,Spicy BBQ Sauce,Food - Condiments,Japan,2,35.73,2025-03-03,TRANSFERENCIA
+374,Bicycle Repair Kit,Outdoor,Czech Republic,12,242.77,2025-10-23,BIZUM
+375,Faux Fur Throw Blanket,Home,United States,1,690.08,2025-12-08,BIZUM
+376,Personal Safety Alarm,Safety,Burundi,1,128.06,2025-10-18,TARJETA
+377,Spinach Feta Wraps,Food - Deli,Sweden,5,846.38,2025-01-19,BIZUM
+378,Folding Exercise Bike,Fitness,Malaysia,20,709.35,2025-03-23,BIZUM
+379,Spicy Tuna Sushi Kit,Food - Prepared Meals,China,9,525.8,2025-11-27,TRANSFERENCIA
+380,Pet Bed with Removable Cover,Pets,Russia,16,713.44,2026-02-14,TRANSFERENCIA
+381,Chocolate Chip Cookie Mix,Food - Baking,China,1,263.03,2026-01-14,TRANSFERENCIA
+382,Maple Syrup,Food - Condiments,Russia,18,208.29,2026-01-15,TRANSFERENCIA
+383,Cinnamon Sugar Tortilla Chips,Food - Snacks,Macedonia,12,868.13,2025-09-09,TRANSFERENCIA
+384,Frozen Salmon Filets,Food - Seafood,Philippines,16,216.77,2025-10-05,BIZUM
+385,Honeycrisp Apples,Food - Produce,Cyprus,5,644.8,2026-03-29,TRANSFERENCIA
+386,Wireless Charging Station,Electronics,Mexico,5,153.05,2025-03-06,BIZUM
+387,Creamy Spinach Dip,Food - Prepared Foods,China,10,844.34,2025-02-05,TARJETA
+388,Coconut Curry Lentil Soup,Food - Canned Goods,Indonesia,11,746.92,2025-09-28,BIZUM
+389,Honey Glazed Carrots,Food - Produce,Indonesia,9,971.75,2025-05-10,BIZUM
+390,Sour Cream,Food - Dairy,Costa Rica,18,580.71,2025-05-24,TARJETA
+391,Almond Butter Crunch Bar,Food - Snacks,China,19,184.49,2025-05-19,TRANSFERENCIA
+392,Tea Set with Infuser,Kitchen,Ireland,14,527.87,2025-08-05,TARJETA
+393,Rice Pilaf Mix,Food - Grains,China,12,217.99,2025-10-31,TRANSFERENCIA
+394,Balsamic Salad Dressing,Food - Deli,Portugal,10,390.35,2026-03-03,TRANSFERENCIA
+395,Wireless Charger,Accessories,Nigeria,1,887.46,2026-03-26,BIZUM
+396,Luxury Bath Robe,Clothing,Indonesia,16,508.8,2026-02-14,BIZUM
+397,Photo Album,Home,United States,10,736.71,2026-03-27,TARJETA
+398,Party Mini Dress,Clothing - Dresses,Netherlands,4,581.82,2025-01-19,TARJETA
+399,Beef Taco Skillet,Food - Meal Kits,France,13,180.91,2025-09-29,TARJETA
+400,Mini Indoor Herb Garden Kit,Garden,China,12,385.47,2025-12-01,TARJETA
+401,Dark Chocolate Tart,Food - Desserts,Indonesia,16,274.53,2025-12-21,BIZUM
+402,Flavored Instant Oatmeal,Food - Breakfast,Kuwait,11,209.04,2026-02-25,BIZUM
+403,Electric Kettle with Temperature Control,Kitchen,France,3,970.17,2026-02-07,TRANSFERENCIA
+404,Sunflower Seeds,Food - Nuts,Guam,1,98.44,2025-06-17,BIZUM
+405,Floral Wrap Top,Clothing - Tops,Colombia,6,913.72,2025-06-28,TARJETA
+406,Compact Shoe Rack,Home,Argentina,3,134.75,2025-08-06,BIZUM
+407,Sweet and Spicy Barbecue Sauce,Food - Condiments,Sweden,15,799.05,2025-09-01,TARJETA
+408,Maple Almond Butter,Food - Nut Butters,China,2,642.99,2025-05-07,TARJETA
+409,Breathable Face Mask Set,Health,Palestinian Territory,2,855.49,2025-12-03,TARJETA
+410,Garden Tool Set,Garden,France,1,173.3,2025-06-08,TARJETA
+411,Puzzle Mat,Toys,Slovenia,18,283.41,2025-09-02,BIZUM
+412,Honey Lemon Tea,Food - Beverages,Indonesia,7,752.51,2025-01-12,BIZUM
+413,Children's Musical Instrument Set,Toys,Thailand,7,139.93,2025-07-06,TARJETA
+414,Rechargeable Electric Toothbrush,Health,China,12,616.56,2025-12-17,TRANSFERENCIA
+415,Electric Food Slicer,Kitchen,Indonesia,9,430.14,2025-05-10,BIZUM
+416,Compact Digital Camera,Photography,China,20,610.78,2025-07-17,TRANSFERENCIA
+417,Honey Butter Popcorn,Food - Snacks,Indonesia,5,998.28,2026-02-16,BIZUM
+418,Athletic Jogging Jacket,Clothing - Outerwear,China,15,508.3,2025-06-01,TARJETA
+419,Comfort Flats,Clothing - Shoes,Peru,5,330.04,2025-06-21,TRANSFERENCIA
+420,Eco-Friendly Cleaning Cloths,Home,Brazil,17,603.39,2025-02-18,TARJETA
+421,Fresh Basil Pesto,Food - Sauces,United States,3,413.65,2025-12-21,TARJETA
+422,Honeycrisp Apple Chips,Food - Snacks,Sweden,17,908.48,2026-01-23,TARJETA
+423,Pocket Blanket,Outdoor,United States,6,631.9,2026-02-16,BIZUM
+424,Wireless HDMI Transmitter,Electronics,Indonesia,2,708.66,2025-08-22,TARJETA
+425,Crafting Kit,Art Supplies,Indonesia,11,173.15,2025-11-13,TARJETA
+426,Stainless Steel BBQ Grill Set,Outdoor,China,12,590.28,2025-04-24,BIZUM
+427,Herbed Chicken Breast,Food - Meat,Colombia,6,674.15,2025-07-03,BIZUM
+428,Rice Pilaf Mix,Food - Grains,Armenia,19,769.12,2025-08-29,BIZUM
+429,Mediterranean Couscous Salad,Food - Salads,Saudi Arabia,8,252.28,2025-07-15,BIZUM
+430,Waterproof Rain Boots,Clothing - Footwear,Comoros,12,447.57,2026-03-05,BIZUM
+431,Foot Spa Bath Massager,Health,Ukraine,11,606.29,2025-02-09,BIZUM
+432,Eco-Friendly Stainless Steel Straws,Kitchen,Russia,19,121.79,2025-02-11,TARJETA
+433,Strawberry Banana Smoothie Pack,Food - Frozen,France,9,334.87,2025-10-15,TRANSFERENCIA
+434,Telescope,Outdoor,Philippines,13,819.28,2025-03-20,TARJETA
+435,Wireless Music Receiver,Audio,France,17,687.71,2025-05-31,TRANSFERENCIA
+436,Spicy Tuna Rolls,Food - Seafood,China,10,97.99,2025-01-11,TRANSFERENCIA
+437,Black Bean & Corn Salad,Food - Salads,Russia,12,443.95,2026-01-23,BIZUM
+438,Spice Rack,Kitchen,Russia,4,8.31,2026-03-24,TARJETA
+439,Classic Black Trousers,Clothing - Pants,Russia,5,286.1,2025-02-12,TARJETA
+440,Pineapple Coconut Rice Mix,Food - Grains,Indonesia,8,599.35,2025-01-15,BIZUM
+441,Lockable Bicycle Chain,Outdoor,Kenya,1,987.34,2025-08-19,BIZUM
+442,Organic Fruit Salad,Food - Produce,Philippines,6,180.02,2025-02-24,TARJETA
+443,Denim Jacket,Clothing - Outerwear,Poland,8,616.12,2025-05-09,TRANSFERENCIA
+444,Asian Noodle Salad Kit,Food - Salads,Ukraine,19,207.1,2025-04-23,BIZUM
+445,Cocktail Shaker and Mixing Glass Set,Kitchen,Indonesia,16,630.24,2025-07-05,TARJETA
+446,Golf Putting Green,Sports,Canada,12,141.93,2025-02-27,BIZUM
+447,Spicy Salsa Verde,Food - Condiments,Austria,4,326.69,2025-11-28,TRANSFERENCIA
+448,Portable Grill Cover,Outdoor,Indonesia,10,981.0,2026-03-31,TRANSFERENCIA
+449,Zucchini,Food - Produce,Finland,15,390.1,2025-08-22,TARJETA
+450,Weighted Jump Rope,Fitness,Sweden,18,218.3,2025-05-07,BIZUM
+451,Strawberry Banana Smoothie Pack,Food - Frozen,Philippines,19,170.0,2026-03-16,TARJETA
+452,Pumpkin Spice Coffee,Food - Beverages,China,1,33.03,2025-04-25,TARJETA
+453,Crispy Kale Chips,Food - Snacks,Bosnia and Herzegovina,2,979.93,2025-12-08,TRANSFERENCIA
+454,Inspirational Wall Art,Home,France,15,525.74,2025-10-30,BIZUM
+455,Pumpkin Spice Muffins,Food - Bakery,China,11,85.99,2025-06-14,TARJETA
+456,Savory Oatmeal,Food - Breakfast,Canada,6,248.72,2025-01-26,TARJETA
+457,Smart Home Hub,Smart Home,Brazil,12,667.62,2025-06-02,BIZUM
+458,Air Fryer,Kitchen,Mexico,6,986.02,2025-03-11,BIZUM
+459,Garlic Parmesan Roasted Potatoes,Food - Sides,Thailand,1,765.36,2025-09-24,TARJETA
+460,Beef Tacos,Food - Meat,China,3,310.48,2025-05-29,TRANSFERENCIA
+461,Pet Travel Carrier,Pets,China,8,679.94,2025-01-02,TARJETA
+462,Avocado Lime Dressing,Food - Condiments,Japan,10,121.44,2026-01-07,TARJETA
+463,Soft Plush Throw Blanket,Home,Indonesia,4,335.92,2025-07-13,TRANSFERENCIA
+464,Luxury Bath Robe,Clothing,Indonesia,4,792.98,2025-08-26,TRANSFERENCIA
+465,Dog Car Seat Cover,Pets,United States,12,656.51,2025-05-11,BIZUM
+466,Animal Paw Print Soap Dispenser,Home,Tunisia,8,595.4,2025-05-31,TARJETA
+467,Classic Bagels,Food - Bakery,Sweden,3,330.76,2025-04-28,BIZUM
+468,Portable Camping Shower,Outdoor,Mauritius,17,254.3,2025-06-21,BIZUM
+469,Peanut Butter Banana Smoothie,Food - Beverages,Philippines,8,412.02,2025-03-20,BIZUM
+470,Portable Pet Bathing Tool,Pets,Indonesia,20,95.27,2025-11-08,BIZUM
+471,Maple Glazed Carrots,Food - Prepared Foods,Venezuela,12,264.06,2025-11-26,BIZUM
+472,Spicy Thai Noodles,Food - Frozen Meals,Venezuela,4,155.44,2025-06-02,BIZUM
+473,Jennifer's Amazing Lip Balm Kit,Beauty,France,1,178.7,2025-10-13,BIZUM
+474,Adjustable Kitchen Broom Stand,Home,Uganda,19,441.01,2025-07-07,BIZUM
+475,Plant Pot Drip Trays,Garden,Indonesia,14,235.55,2025-10-27,BIZUM
+476,Cat Scratching Post with Toys,Pets,Brazil,19,674.76,2025-11-10,TRANSFERENCIA
+477,Banana Chips,Food - Snacks,Panama,4,537.98,2025-08-31,BIZUM
+478,Tailored Dress Pants,Clothing - Bottoms,Colombia,13,565.04,2025-03-10,BIZUM
+479,Potato Wedge Seasoning,Food - Condiments,Uzbekistan,17,745.17,2025-04-22,TARJETA
+480,Trackpad for Laptop,Accessories,China,5,902.3,2025-03-19,TARJETA
+481,Crispy Potato Tots,Food - Frozen Foods,Morocco,13,214.57,2025-12-11,TRANSFERENCIA
+482,Kettle Chip Variety Pack,Food - Snacks,Bangladesh,16,200.43,2025-07-31,TARJETA
+483,Educational STEM Kit,Toys,Canada,20,496.05,2025-11-14,TRANSFERENCIA
+484,Chic Ankle Strap Heels,Clothing - Shoes,Indonesia,13,193.88,2025-01-29,TARJETA
+485,Cooking Utensil Set,Kitchen,Uzbekistan,8,852.76,2026-03-01,TRANSFERENCIA
+486,Stuffed Bell Peppers,Food - Frozen Meals,France,9,501.18,2025-12-15,TARJETA
+487,Home Brewing Starter Kit,Food,Venezuela,4,21.57,2025-08-18,BIZUM
+488,Ginger Turmeric Latte Mix,Food - Beverages,Malaysia,14,956.25,2025-08-07,TRANSFERENCIA
+489,Canvas Tote Bag,Clothing - Accessories,Ghana,2,56.69,2025-12-17,TARJETA
+490,Garlic and Herb Rub,Food - Spices,Brazil,8,422.99,2025-04-01,TARJETA
+491,Cucumber Lime Sparkling Water,Food - Beverages,Azerbaijan,18,323.27,2025-08-31,TRANSFERENCIA
+492,Sculpting Kit,Art Supplies,France,19,30.32,2025-11-29,BIZUM
+493,Sliced Bell Peppers,Food - Fresh Produce,United States,4,565.36,2025-06-04,TRANSFERENCIA
+494,Peas (frozen),Food - Frozen Foods,Indonesia,2,825.38,2025-09-26,TARJETA
+495,Chocolate Chip Cookie Mix,Food - Baking,Russia,11,164.78,2026-03-07,TRANSFERENCIA
+496,Tactical Backpack,Outdoor,Ireland,19,998.25,2025-06-20,TARJETA
+497,Coconut Granola,Food - Snacks,Finland,16,731.56,2025-03-28,BIZUM
+498,Mint Chocolate Chip Ice Cream,Food - Frozen Desserts,Indonesia,15,620.78,2025-05-14,TRANSFERENCIA
+499,Lentil Vegetable Stew,Food - Canned Soups,Sri Lanka,5,702.46,2025-12-15,BIZUM
+500,Ice Cream Maker,Kitchen,Indonesia,8,432.57,2025-08-19,TRANSFERENCIA
+501,Vegetarian Pizza,Food - Frozen Foods,China,5,851.75,2025-11-29,TRANSFERENCIA
+502,Pesto Pasta Salad,Food - Prepared Foods,Philippines,11,259.31,2026-03-05,TRANSFERENCIA
+503,Tomato Sauce,Food - Canned Goods,China,1,588.95,2025-10-06,TARJETA
+504,Ranch Dressing,Food - Condiments,Syria,17,584.62,2026-03-21,BIZUM
+505,Teriyaki Tofu Stir-Fry,Food - Prepared Meals,Thailand,3,651.02,2025-12-11,BIZUM
+506,Body Pillow Case,Home,China,11,459.49,2025-03-09,TRANSFERENCIA
+507,A-Line Skirt,Clothing - Bottoms,China,5,302.48,2025-10-23,TRANSFERENCIA
+508,Garlic & Herb Goat Cheese,Food - Dairy,Panama,4,515.32,2025-12-12,TARJETA
+509,Glass Water Bottle,Fitness,China,4,264.89,2025-07-12,BIZUM
+510,Smartphone Tripod with Bluetooth Remote,Photography,China,4,435.3,2025-06-30,TARJETA
+511,Smartphone Tripod with Bluetooth Remote,Photography,Peru,15,736.79,2025-04-30,TRANSFERENCIA
+512,Stainless Steel Cutlery Set,Kitchen,Brazil,2,234.92,2026-03-24,TARJETA
+513,Red Lentil Pasta,Food - Pasta,Morocco,9,650.46,2025-02-02,TARJETA
+514,Set of Silicone Baking Molds,Kitchen,France,10,28.39,2025-09-16,TARJETA
+515,Portable Blender,Kitchen,Nicaragua,14,735.55,2025-03-01,BIZUM
+516,Pet Training Clicker,Pets,Indonesia,19,311.42,2025-05-15,TARJETA
+517,Leather Biker Jacket,Clothing - Outerwear,China,4,345.5,2025-10-10,BIZUM
+518,Luxury Bath Salts,Beauty,China,18,243.38,2025-01-08,BIZUM
+519,Cauliflower Pizza Crust,Food - Frozen Foods,Japan,10,5.2,2026-03-25,TARJETA
+520,Classic Chicken Noodle Soup,Food - Canned Goods,Brazil,8,93.26,2025-04-05,TRANSFERENCIA
+521,Homestyle Chicken Noodle Soup,Food - Canned Goods,Poland,11,149.65,2026-03-23,BIZUM
+522,Balsamic Vinaigrette,Food - Dressings,Greece,7,15.91,2025-03-11,TRANSFERENCIA
+523,Beach Cover-Up,Clothing - Swimwear,China,1,996.36,2025-07-23,BIZUM
+524,Miso Soup Mix,Food - Soups,Ethiopia,10,32.0,2025-09-11,TARJETA
+525,Vanilla Protein Powder,Food - Health/Protein,Turkmenistan,9,132.82,2026-02-17,TRANSFERENCIA
+526,Spicy Tuna Sushi Kit,Food - Prepared Meals,Bulgaria,20,163.1,2025-04-23,BIZUM
+527,Organic Black Bean Burger,Food - Frozen Foods,Sweden,2,165.82,2025-07-03,TARJETA
+528,Whole Wheat Bread,Food - Bakery,Japan,1,965.01,2025-03-29,TRANSFERENCIA
+529,Bamboo Utensil Holder,Kitchen,Russia,17,172.09,2025-02-06,TRANSFERENCIA
+530,Coconut Bowls Set,Kitchen,Brazil,4,644.51,2025-11-09,BIZUM
+531,Silicone Wine Glasses,Outdoor,France,12,81.48,2025-01-24,TRANSFERENCIA
+532,Silicone Cooking Utensils Set,Kitchen,China,19,702.33,2025-12-16,TARJETA
+533,Honeycrisp Apples,Food - Produce,United States,19,888.33,2025-01-21,TRANSFERENCIA
+534,Apple Sauce,Food - Canned Goods,Belarus,1,916.43,2025-11-25,TRANSFERENCIA
+535,Fresh Cilantro,Food - Produce,Russia,11,904.15,2025-06-17,BIZUM
+536,Lemon Zest Olive Oil,Food - Oils & Vinegars,Nigeria,11,30.33,2025-04-12,TRANSFERENCIA
+537,Over-the-Door Hooks,Home,Thailand,10,759.72,2025-02-04,BIZUM
+538,Mango Sticky Rice Dessert,Food - Frozen Desserts,France,18,198.98,2025-07-29,BIZUM
+539,Sweet Pea Hummus,Food - Dips,Russia,16,25.41,2025-03-17,TRANSFERENCIA
+540,Cucumber,Food - Produce,Ukraine,17,927.05,2025-04-25,TRANSFERENCIA
+541,Coconut Chia Pudding,Food - Dairy,Egypt,1,600.16,2026-01-10,TRANSFERENCIA
+542,Car Diagnostic Scanner,Automotive,Colombia,5,938.15,2025-08-28,BIZUM
+543,Tennis Racket,Fitness,Mayotte,6,308.04,2025-07-26,TARJETA
+544,Hummus Variety Pack,Food - Dairy,Poland,1,669.43,2025-07-19,TARJETA
+545,Graphic Tee,Clothing,China,7,697.09,2025-09-07,BIZUM
+546,Outdoor Inflatable Pool,Outdoor,Russia,19,307.85,2025-01-01,BIZUM
+547,Organic Coconut Yogurt,Food - Dairy,Russia,13,712.93,2025-03-13,BIZUM
+548,Pumpkin Spice Creamer,Food - Beverages,Philippines,5,84.85,2025-04-10,TARJETA
+549,Homestyle Chicken Noodle Soup,Food - Canned Goods,Brazil,9,366.27,2025-03-11,TRANSFERENCIA
+550,Almond Flour Biscuits,Food - Bakery,Peru,13,764.99,2026-03-25,TRANSFERENCIA
+551,Oversized Denim Shirt,Clothing - Shirts,Jordan,1,428.98,2026-04-04,TRANSFERENCIA
+552,Brown Rice,Food - Grains,France,9,44.23,2025-09-21,TRANSFERENCIA
+553,Inflatable Party Cooler,Outdoor,Malaysia,19,477.76,2025-04-29,BIZUM
+554,Samsung Galaxy Smartwatch,Wearable Tech,Russia,15,264.7,2025-03-16,TRANSFERENCIA
+555,Ground Cinnamon,Food - Spices,China,1,14.69,2025-10-10,BIZUM
+556,Foldable Picnic Table,Outdoor,Argentina,8,945.22,2025-01-25,TRANSFERENCIA
+557,Peach Slices (canned),Food - Canned Goods,Israel,11,777.41,2025-12-25,BIZUM
+558,Camera Lens Cleaning Kit,Photography,Bolivia,1,336.0,2025-11-28,TARJETA
+559,Almond Butter Cookies,Food - Snacks,France,13,544.4,2025-02-05,TARJETA
+560,Honey Garlic Sauce,Food - Sauces,Vietnam,7,479.35,2026-03-29,TRANSFERENCIA
+561,Hummus Trio Pack,Food - Snacks,Pakistan,1,474.86,2025-11-28,TRANSFERENCIA
+562,Ceramic Cookware Set,Kitchen,Ireland,10,254.61,2025-05-04,TARJETA
+563,Sea Salt Caramel Brownie,Food - Bakery,United States,2,179.92,2025-08-25,BIZUM
+564,Silicone Cooking Utensils Set,Kitchen,Peru,17,601.19,2025-01-11,TRANSFERENCIA
+565,Nut Mix,Food - Snacks,Colombia,5,24.47,2026-02-03,TARJETA
+566,Garam Masala Spice Blend,Food - Spices,United States,17,880.71,2026-02-07,TARJETA
+567,Garden Hose Reel,Garden,Poland,16,297.94,2025-02-08,BIZUM
+568,Coconut Cream Pie,Food - Bakery,China,4,655.78,2025-07-12,TARJETA
+569,Magnetic Spice Containers,Kitchen,China,12,102.98,2025-07-06,TARJETA
+570,Electric Egg Cooker,Kitchen,Indonesia,9,29.89,2025-04-10,TARJETA
+571,Sriracha Chili Sauce,Food - Condiments,Ecuador,9,522.23,2025-01-26,BIZUM
+572,Pet Training Pads,Pets,Latvia,2,642.93,2025-01-28,TARJETA
+573,Digital Camera,Electronics,Indonesia,16,234.84,2025-08-05,TRANSFERENCIA
+574,Skincare Set,Beauty,Greece,8,104.72,2025-09-23,TRANSFERENCIA
+575,Shower Curtain Hooks,Home,France,1,743.27,2025-10-15,TARJETA
+576,Spinach Artichoke Dip,Food - Snacks,Sweden,3,798.46,2025-08-03,TARJETA
+577,Mayonnaise,Food - Condiments,Indonesia,18,955.36,2025-01-25,BIZUM
+578,Weighted Jump Rope,Fitness,Philippines,15,593.03,2025-04-02,TRANSFERENCIA
+579,Almond Joy Protein Bars,Food - Snacks,United States,1,852.08,2025-03-22,TRANSFERENCIA
+580,Chocolate Almond Milk,Food - Dairy Alternatives,China,16,837.67,2025-04-06,BIZUM
+581,Air Fryer,Kitchen,Poland,5,391.14,2026-02-25,TRANSFERENCIA
+582,Rechargeable Electric Toothbrush,Health,Iran,14,229.3,2025-10-30,BIZUM
+583,Photo Album,Home,Indonesia,12,964.52,2025-08-27,TARJETA
+584,Garam Masala Spice Blend,Food - Spices,Belarus,13,645.55,2025-08-08,TRANSFERENCIA
+585,Garlic Herb Marinade,Food - Marinades,Czech Republic,13,306.45,2026-04-02,TRANSFERENCIA
+586,Handmade Soap Making Kit,Crafts,United States,7,135.17,2025-03-04,BIZUM
+587,Coconut Cream Pie Mix,Food - Baking,China,3,84.68,2025-12-20,TRANSFERENCIA
+588,Vanilla Ice Cream,Food - Frozen Foods,Thailand,12,281.7,2026-01-30,TRANSFERENCIA
+589,Digital Food Thermometer,Kitchen,Greece,2,922.14,2025-03-14,TRANSFERENCIA
+590,Chocolate Chip Energy Balls,Food - Snacks,Colombia,8,826.57,2025-11-18,TARJETA
+591,Magnetic Chess Set,Toys,Canada,3,863.33,2025-03-09,BIZUM
+592,Pineapple Salsa,Food - Condiments,China,10,175.74,2026-02-15,BIZUM
+593,Maple Cinnamon Granola Bars,Food - Snacks,Brazil,18,439.76,2025-06-10,TRANSFERENCIA
+594,Children's Educational Workbook,Books,Indonesia,17,663.4,2025-02-03,TRANSFERENCIA
+595,Foot Spa Bath Massager,Health,Portugal,1,980.25,2025-04-11,BIZUM
+596,Savory Snack Mix,Food - Snacks,Sweden,10,200.8,2025-03-23,TRANSFERENCIA
+597,Insulated Sport Tumbler,Fitness,Russia,12,931.73,2025-08-12,BIZUM
+598,Protein Bar Variety Pack,Food - Snacks,Ireland,18,828.37,2025-03-11,BIZUM
+599,Sweet Chili Sauce,Food - Condiments,Macedonia,18,758.52,2025-06-17,BIZUM
+600,Kids' Educational Tablet,Electronics,Pakistan,11,493.47,2025-10-12,TARJETA
+601,Cushion Covers,Home,Indonesia,15,236.21,2025-09-28,BIZUM
+602,Andouille Sausage,Food - Meat,Philippines,4,826.71,2025-07-03,TRANSFERENCIA
+603,Screen Cleaning Kit,Electronics,Albania,16,362.23,2026-03-28,TARJETA
+604,Spinach Artichoke Dip,Food - Snacks,China,14,927.09,2026-01-26,TARJETA
+605,Falafel Mix,Food - Baking & Cooking,Democratic Republic of the Congo,16,964.44,2025-12-15,TRANSFERENCIA
+606,Electric Air Pump,Outdoor,Portugal,9,891.36,2026-01-05,TARJETA
+607,Garlic Parmesan Wings,Food - Frozen Foods,Sudan,9,886.47,2025-11-18,BIZUM
+608,Ethically-Sourced Coffee Beans,Food - Beverages,Japan,18,289.93,2026-03-31,BIZUM
+609,Zucchini Noodle Pasta,Food - Vegetables,Indonesia,14,911.85,2026-03-21,TARJETA
+610,Andouille Sausage,Food - Meat,China,14,947.98,2025-05-31,TARJETA
+611,Smartphone Tripod,Photography,Brazil,9,161.2,2026-03-14,BIZUM
+612,Classic Vanilla Fudge,Food - Desserts,Spain,15,69.06,2025-02-24,BIZUM
+613,Wall-Mounted Wine Rack,Home,Georgia,11,142.68,2025-04-10,TRANSFERENCIA
+614,Mini Indoor Hydroponic Garden,Garden,Bosnia and Herzegovina,11,851.33,2025-03-27,TARJETA
+615,Phone Screen Protector,Accessories,Brazil,11,957.96,2026-01-18,TRANSFERENCIA
+616,Vegan Caesar Dressing,Food - Condiments,Sierra Leone,5,128.41,2025-04-16,TARJETA
+617,Safety Pin Dispenser,Office,Cameroon,1,233.83,2025-01-25,TRANSFERENCIA
+618,Electric Hot Pot,Kitchen,Czech Republic,19,277.49,2025-10-25,TRANSFERENCIA
+619,Almond Flour Brownies,Food - Baking,Ethiopia,13,996.56,2025-09-08,TARJETA
+620,Cheese Stuffed Jalapenos,Food - Snacks,Poland,14,910.09,2026-03-02,TRANSFERENCIA
+621,Jalapeño Cornbread,Food - Bakery,Canada,10,541.44,2025-07-19,BIZUM
+622,Spinach and Cheese Stuffed Shells,Food - Frozen Meals,China,14,968.49,2025-08-08,TARJETA
+623,Stuffed Grape Leaves,Food - Prepared Foods,Canada,8,962.69,2025-03-04,TARJETA
+624,Electric Stool Heater,Home,Nigeria,19,583.82,2025-06-28,TRANSFERENCIA
+625,Children's Musical Instrument Set,Toys,Czech Republic,7,88.82,2026-02-22,TRANSFERENCIA
+626,Herb Drying Rack,Garden,China,2,193.39,2025-09-27,BIZUM
+627,Coffee Making Kit,Kitchen,Honduras,13,471.18,2025-07-11,TARJETA
+628,Laptop Backpack,Accessories,Uganda,3,965.32,2026-04-04,TRANSFERENCIA
+629,Thai Peanut Noodles,Food - Pasta,Honduras,11,849.13,2025-03-05,BIZUM
+630,Kids' Craft Supplies Set,Toys,Japan,18,330.41,2025-11-29,TRANSFERENCIA
+631,Bluetooth Sleep Headphones,Audio,China,11,17.27,2025-06-07,BIZUM
+632,Safety First Aid Kit,Health,Philippines,3,415.14,2025-05-08,TARJETA
+633,Raisin Cinnamon Granola,Food - Cereals,Poland,15,246.8,2026-03-30,BIZUM
+634,Almond Milk,Food - Dairy,China,12,381.07,2025-09-13,BIZUM
+635,Bamboo Charcoal Air Purifier Bags,Home,Brazil,7,93.83,2025-09-27,BIZUM
+636,Fruit Medley Juice,Food - Beverages,China,12,4.46,2025-06-20,TRANSFERENCIA
+637,Creamy Ranch Dressing,Food - Dressings,Afghanistan,15,250.35,2025-08-11,BIZUM
+638,Trackpad for Laptop,Accessories,Czech Republic,17,201.0,2025-04-21,BIZUM
+639,Fitness Resistance Bands Kit,Fitness,Brazil,12,22.78,2025-07-31,TRANSFERENCIA
+640,Watercolor Set,Art Supplies,Czech Republic,19,153.81,2025-06-09,TARJETA
+641,Wireless Charging Station,Electronics,Philippines,11,78.0,2025-12-07,TARJETA
+642,Magnetic Screen Door,Outdoor,China,10,922.29,2025-03-14,TRANSFERENCIA
+643,Adjustable Yoga Mat Strap,Fitness,Brazil,12,914.85,2025-10-24,TARJETA
+644,Savory Oats,Food - Breakfast,Afghanistan,1,800.97,2025-07-30,BIZUM
+645,Pet Nail Clipper,Pets,Ukraine,12,385.07,2025-03-16,BIZUM
+646,Pet Waterer with Filtration,Pets,China,3,75.87,2025-03-07,TARJETA
+647,Insulated Sport Tumbler,Fitness,Sweden,1,323.89,2025-06-05,TRANSFERENCIA
+648,Gingerbread House Kit,Food - Baking,Sierra Leone,9,964.96,2025-02-15,BIZUM
+649,Greek Yogurt Parfait,Food - Dairy,Greece,18,760.12,2025-05-20,TARJETA
+650,Couscous Mix,Food - Grains,Brazil,15,413.0,2025-02-27,TRANSFERENCIA
+651,Herbal Tea Infuser,Kitchen,Colombia,9,128.69,2025-03-08,TARJETA
+652,Sun Protection Clothing,Clothing,China,7,265.64,2025-04-08,TARJETA
+653,Spinach Artichoke Dip,Food - Snacks,Nicaragua,6,42.6,2025-06-09,BIZUM
+654,Bamboo Cotton Tank Top,Clothing - Tops,Portugal,5,346.49,2026-04-02,BIZUM
+655,Spicy Snack Mix,Food - Snacks,Brazil,14,780.83,2025-01-05,BIZUM
+656,Streaming Device,Electronics,Ecuador,4,396.5,2025-10-24,TARJETA
+657,Red Lentil Pasta,Food - Pasta,China,7,16.14,2025-03-22,BIZUM
+658,Graphic Print Leggings,Clothing - Activewear,Nepal,5,480.16,2025-01-17,TRANSFERENCIA
+659,Mint Chocolate Chip Ice Cream,Food - Frozen Desserts,Russia,1,539.45,2025-07-30,BIZUM
+660,Electric Fondue Pot,Kitchen,Indonesia,9,42.04,2025-04-04,TARJETA
+661,Bicycle Lock,Bicycles,Cuba,5,723.3,2025-04-13,BIZUM
+662,Ceramic Planter Set,Home,Indonesia,18,355.92,2026-01-08,TARJETA
+663,Folding Pocket Knife,Tools,Portugal,15,44.26,2026-01-11,TARJETA
+664,Bamboo Cutting Board,Kitchen,Saudi Arabia,2,6.65,2026-01-27,TARJETA
+665,Nature Explorer Lens Kit,Toys,Ghana,14,361.09,2026-01-13,BIZUM
+666,Luxe Velvet Blazer,Clothing - Outerwear,Russia,4,212.46,2025-01-16,TRANSFERENCIA
+667,Herbed Mushroom Risotto,Food - Prepared Foods,Indonesia,11,826.15,2026-02-18,TARJETA
+668,Mango Chutney,Food - Condiments,Indonesia,10,262.85,2025-02-15,TARJETA
+669,Brazil Nuts,Food - Nuts,Nigeria,15,936.91,2026-01-29,BIZUM
+670,Beef Stew Meat,Food - Meat,Cuba,18,920.77,2025-04-24,TRANSFERENCIA
+671,Sliced Cheese,Food - Dairy,Indonesia,13,515.56,2026-01-20,TARJETA
+672,Caramel Sauce,Food - Condiments,China,18,867.48,2025-09-24,BIZUM
+673,Training Soccer Ball,Sports,China,12,402.69,2025-03-25,TRANSFERENCIA
+674,Buffalo Style Cauliflower Bites,Food - Frozen Vegetables,China,18,532.7,2025-10-06,BIZUM
+675,Portable Air Compressor,Automotive,Philippines,8,188.28,2025-04-20,BIZUM
+676,Wrist Support Brace,Health,South Africa,7,179.55,2026-02-23,TARJETA
+677,Crispy Rice Treats,Food - Snacks,Indonesia,6,265.74,2025-11-12,BIZUM
+678,Athletic Jogging Jacket,Clothing - Outerwear,China,17,470.0,2026-01-08,TRANSFERENCIA
+679,Durable Hiking Boots,Footwear,Vietnam,7,657.72,2025-12-04,TRANSFERENCIA
+680,Vegetarian Stir Fry Sauce,Food - Condiments,Japan,13,455.49,2025-02-19,TARJETA
+681,Mobile Workbench,Tools,Czech Republic,17,124.64,2026-01-15,TRANSFERENCIA
+682,Wireless Charger Stand,Electronics,Colombia,20,575.19,2025-01-19,BIZUM
+683,Dish Rack,Kitchen,China,13,964.57,2025-07-11,TRANSFERENCIA
+684,Canned Black Beans,Food - Canned Goods,Greece,9,959.51,2026-02-26,TRANSFERENCIA
+685,Ginger Turmeric Latte Mix,Food - Beverages,Nicaragua,14,582.64,2025-02-25,TRANSFERENCIA
+686,Travel Mug,Kitchen,China,8,551.34,2025-04-25,BIZUM
+687,Action Camera,Electronics,France,13,525.14,2025-06-17,TARJETA
+688,Whipped Cream Cheese,Food - Dairy,China,6,153.16,2026-03-19,TARJETA
+689,Men's Waterproof Hiking Boots,Footwear,China,13,640.52,2025-06-24,TRANSFERENCIA
+690,Teriyaki Tofu Stir-Fry,Food - Prepared Meals,China,8,763.98,2025-04-20,TRANSFERENCIA
+691,Home Office Chair,Furniture,Saudi Arabia,20,203.61,2025-04-26,TRANSFERENCIA
+692,Basic V-Neck T-Shirt,Clothing - Tops,China,16,253.17,2026-01-15,BIZUM
+693,Maple Bacon Popcorn,Food - Snacks,Colombia,1,981.9,2025-04-16,TRANSFERENCIA
+694,Mini Waffle Maker,Kitchen,United States,3,72.08,2025-08-16,TRANSFERENCIA
+695,Cranberry Almond Cookies,Food - Bakery,Russia,16,459.48,2025-09-13,TARJETA
+696,DIY Candle Making Kit,Crafts,Indonesia,2,509.49,2026-02-06,TARJETA
+697,Professional Chef Knife,Kitchen,Ivory Coast,13,271.38,2025-05-25,TARJETA
+698,Cucumber,Food - Produce,Senegal,6,234.84,2025-03-05,TARJETA
+699,Interactive Plush Toy,Toys,Indonesia,3,732.91,2025-03-03,BIZUM
+700,Almond Flour,Food - Baking,Russia,5,969.82,2025-09-13,TARJETA
+701,Coconut Milk,Food - Canned Goods,China,4,808.42,2025-09-22,TARJETA
+702,Wall Calendar,Home,Russia,7,946.53,2025-06-16,TARJETA
+703,Chickpea Pasta,Food - Pasta,China,18,843.85,2025-03-02,BIZUM
+704,LED Canopy Lights,Outdoor,China,12,962.03,2025-02-25,BIZUM
+705,Frozen Hash Browns,Food - Frozen Foods,South Africa,16,581.73,2025-09-28,TARJETA
+706,Air Fryer Oven,Kitchen,South Korea,11,57.12,2025-09-03,BIZUM
+707,Frozen Acai Purée,Food - Frozen,Malaysia,11,351.28,2025-01-30,TARJETA
+708,Flavored Popcorn Mix,Food - Snacks,Philippines,15,681.93,2025-11-13,BIZUM
+709,Almond Milk,Food - Dairy,Ghana,14,558.21,2025-03-11,BIZUM
+710,Smartphone Projector,Electronics,Thailand,20,86.95,2025-04-25,BIZUM
+711,Italian Marinara Sauce,Food - Sauces,Argentina,13,742.25,2025-02-12,TARJETA
+712,Fall-Themed Table Runner,Home,Indonesia,3,665.5,2025-06-23,TARJETA
+713,Luxury Bathrobe,Clothing,Philippines,16,600.01,2025-10-16,BIZUM
+714,Dual Function Electric Skillet,Kitchen,Czech Republic,14,429.58,2026-02-20,TARJETA
+715,Sculpting Kit,Art Supplies,China,18,688.91,2025-11-04,BIZUM
+716,Creamy Tomato Basil Soup,Food - Canned Goods,China,20,401.72,2025-06-14,TRANSFERENCIA
+717,Red Lentils,Food - Grains,Canada,18,763.08,2026-03-20,TARJETA
+718,Stylish Wide-Leg Trousers,Clothing - Bottoms,Egypt,1,37.49,2025-02-17,TRANSFERENCIA
+719,Kids' Science Experiment Kit,Toys,Indonesia,10,640.4,2025-09-09,TRANSFERENCIA
+720,Honey Glazed Carrots,Food - Produce,Netherlands,4,918.62,2025-10-31,TARJETA
+721,Lemon Zest Olive Oil,Food - Oils & Vinegars,Canada,10,356.17,2025-06-28,TRANSFERENCIA
+722,Bicycle Lock,Bicycles,China,7,520.52,2026-01-22,TARJETA
+723,Almond Flour Bread Mix,Food - Baking,France,10,464.04,2026-03-26,TARJETA
+724,Pineapple Salsa,Food - Condiments,China,6,389.29,2025-05-31,TARJETA
+725,Homestyle Beef Stew,Food - Canned Soups,Russia,11,80.82,2025-06-29,BIZUM
+726,Beef Sirloin Steak,Food - Meat,China,18,752.51,2025-10-08,TRANSFERENCIA
+727,Sweet Potato Mash,Food - Frozen Foods,Mexico,6,988.68,2025-05-10,BIZUM
+728,Frozen Mixed Vegetables,Food - Frozen,Indonesia,5,583.11,2025-10-07,BIZUM
+729,Protein Powder,Fitness,Ukraine,12,638.1,2025-06-14,BIZUM
+730,Spaghetti Squash,Food - Produce,United States,8,660.89,2025-11-27,TRANSFERENCIA
+731,Electric Meat Grinder,Kitchen,China,18,951.0,2025-08-22,TARJETA
+732,Water Bottle,Fitness,Netherlands,4,81.2,2025-03-28,BIZUM
+733,Pasta (Fusilli),Food - Pasta,Spain,13,817.44,2025-02-24,TRANSFERENCIA
+734,Sriracha Chili Sauce,Food - Condiments,Philippines,10,739.54,2025-02-08,BIZUM
+735,Faux Fur Coat,Clothing - Coats,Czech Republic,9,944.47,2025-12-18,BIZUM
+736,Flavored Rice Cakes,Food - Snacks,Peru,20,42.05,2025-12-02,TRANSFERENCIA
+737,Digital Food Thermometer,Kitchen,Sweden,12,978.97,2026-01-10,TARJETA
+738,Butternut Squash Soup,Food - Soups,Sweden,10,587.79,2025-04-28,TARJETA
+739,USB Flash Drive,Storage,Indonesia,20,245.63,2025-01-03,BIZUM
+740,Hair Dryer,Beauty,Azerbaijan,7,932.61,2025-10-02,TRANSFERENCIA
+741,Eco-Friendly Disposable Plates,Kitchen,Indonesia,1,847.14,2025-10-12,TARJETA
+742,High-Speed HDMI Cable,Electronics,Egypt,2,937.76,2025-03-17,BIZUM
+743,Electric Skillet,Kitchen,Poland,7,594.86,2025-11-02,BIZUM
+744,Watercolor Set,Art Supplies,Russia,15,601.85,2025-10-02,BIZUM
+745,Buffalo Stilton Cheese,Food - Cheese,Azerbaijan,10,510.08,2025-09-21,BIZUM
+746,Portable Water Filter,Outdoor,Mayotte,2,197.06,2025-08-25,TRANSFERENCIA
+747,Yoga Mat Carrier,Fitness,Russia,10,367.49,2025-04-19,TRANSFERENCIA
+748,High-Waisted Skirt,Clothing - Bottoms,Belarus,1,194.51,2026-03-03,BIZUM
+749,Stainless Steel Mixing Bowls,Kitchen,Yemen,6,267.56,2025-12-04,TARJETA
+750,Sturdy Bookends,Office,Hong Kong,19,824.27,2025-04-15,TARJETA
+751,Scent Diffuser,Home,Japan,17,591.66,2025-12-06,TRANSFERENCIA
+752,Popcorn Chicken,Food - Frozen,France,1,657.26,2025-08-29,TARJETA
+753,Electric Blanket,Home,Poland,19,319.52,2026-03-28,TRANSFERENCIA
+754,Raspberry Vanilla Greek Yogurt,Food - Dairy,Philippines,1,510.76,2025-09-14,BIZUM
+755,Eggs (dozen),Food - Dairy,France,5,162.65,2025-10-24,BIZUM
+756,Window Blinds,Home,Ireland,12,601.64,2025-11-04,BIZUM
+757,Ice Cube Tray with Lid,Kitchen,Gambia,13,666.88,2026-03-19,TARJETA
+758,Classic Watch,Accessories,China,3,404.46,2025-06-11,TARJETA
+759,Coloring Books for Adults,Books,Philippines,16,385.44,2025-02-13,TARJETA
+760,Portable Charger with Solar Panel,Electronics,China,1,199.34,2025-09-13,TARJETA
+761,Veggie Chips Variety Pack,Food - Snacks,China,17,956.99,2026-01-20,TARJETA
+762,Puffer Winter Coat,Clothing - Outerwear,Bangladesh,2,429.34,2025-05-19,TRANSFERENCIA
+763,Sesame Seeds,Food - Baking,Russia,10,226.7,2025-04-10,TRANSFERENCIA
+764,Hand Mixer,Kitchen,China,3,495.15,2025-05-14,TARJETA
+765,Mechanical Keyboard,Computers,Indonesia,19,225.66,2026-02-09,BIZUM
+766,Pet Carrier,Pets,China,4,28.39,2025-10-26,TRANSFERENCIA
+767,High-Speed HDMI Cable,Electronics,Indonesia,4,364.35,2025-01-01,TRANSFERENCIA
+768,Pistachios,Food - Nuts,Madagascar,1,402.01,2025-04-02,BIZUM
+769,Spicy Chicken Wings,Food - Meat,Bangladesh,16,952.3,2025-01-22,TARJETA
+770,Fruit and Nut Energy Bites,Food - Snacks,Kosovo,17,818.79,2025-10-18,TARJETA
+771,Stainless Steel Travel Mug,Kitchen,Portugal,4,702.7,2025-09-07,TRANSFERENCIA
+772,Peach Salsa,Food - Dips,Philippines,10,138.12,2026-02-28,TARJETA
+773,Set of Herb Garden Markers,Garden,Hungary,19,940.37,2026-03-07,BIZUM
+774,Mini Indoor Herb Garden Kit,Garden,Czech Republic,9,953.28,2025-06-27,TRANSFERENCIA
+775,Multicolored LED Strip Lights,Home,China,9,876.77,2025-10-14,TARJETA
+776,LED Christmas Lights,Home,Nigeria,13,441.8,2025-04-29,TRANSFERENCIA
+777,Honey BBQ Riblets,Food - Meat,Indonesia,20,892.69,2025-11-02,TARJETA
+778,Professional Chef Knife,Kitchen,Cuba,11,740.68,2025-04-03,TARJETA
+779,Pet Travel Backpack Carrier,Pets,China,20,44.11,2026-03-13,TARJETA
+780,Antique Style Clock,Home,China,12,881.15,2026-01-08,BIZUM
+781,Frozen Chicken Nuggets,Food - Frozen Foods,Peru,18,714.17,2025-04-23,BIZUM
+782,Coconut Cashew Yogurt,Food - Dairy Alternatives,China,4,452.07,2025-08-29,TRANSFERENCIA
+783,Wi-Fi Enabled Smart Light Switch,Smart Home,United States,16,100.51,2026-02-22,BIZUM
+784,Greek Feta Cheese,Food - Dairy,China,4,928.89,2025-09-22,TRANSFERENCIA
+785,Vegetable Quinoa Bowl,Food - Frozen Meals,Uganda,11,530.63,2025-04-04,TARJETA
+786,Sporty Slide Sandals,Clothing - Footwear,Poland,8,119.73,2025-12-10,TRANSFERENCIA
+787,High-Speed Hand Blender,Kitchen,Indonesia,11,776.87,2026-02-02,TARJETA
+788,Heavy Duty Gardening Tool Set,Garden,Brazil,13,292.78,2025-05-13,BIZUM
+789,Multi-Function Smartphone Holder,Electronics,Indonesia,19,696.97,2025-10-13,TARJETA
+790,Picnic Blanket,Outdoor,Jordan,14,343.32,2025-09-24,BIZUM
+791,Adjustable Skipping Rope,Fitness,Poland,3,774.54,2025-10-25,TARJETA
+792,Magnetic Phone Case,Accessories,Greece,15,496.86,2025-01-27,BIZUM
+793,Chicken Salad Kit,Food - Prepared Foods,Vietnam,2,301.61,2025-05-12,TARJETA
+794,Sketchbook,Art Supplies,Indonesia,16,24.49,2025-09-03,BIZUM
+795,Electric Heat Press Machine,Crafts,Mexico,17,373.42,2025-05-30,BIZUM
+796,Watering Can with Nozzle,Garden,China,19,575.91,2025-04-12,BIZUM
+797,Almond Flour Pancake Mix,Food - Baking,China,15,345.0,2025-07-29,TARJETA
+798,Classic Caesar Salad Kit,Food - Salads,United States,12,311.88,2026-02-12,TRANSFERENCIA
+799,Fresh Strawberries,Food - Produce,China,14,689.31,2025-01-19,TRANSFERENCIA
+800,Travel Yoga Mat,Fitness,Russia,15,633.24,2025-06-29,BIZUM
+801,Banana Nut Oatmeal Cups,Food - Breakfast,Bangladesh,4,704.67,2025-12-17,BIZUM
+802,Fitness Smartwatch,Wearable Tech,Indonesia,4,297.67,2025-05-24,TARJETA
+803,Cauliflower Crust Pizza,Food - Freezer,Russia,7,102.95,2025-04-30,BIZUM
+804,Maple Breakfast Sausage,Food - Meat,Indonesia,4,577.34,2026-03-14,TRANSFERENCIA
+805,Pet Bed,Pets,China,6,73.65,2025-10-19,TARJETA
+806,Snack Container Set,Kitchen,Portugal,2,327.23,2025-03-29,TRANSFERENCIA
+807,Miso Soup Mix,Food - Soups,United States,10,209.06,2025-01-27,TRANSFERENCIA
+808,Cranberry Lime Sparkling Water,Food - Beverages,Comoros,5,97.79,2025-03-02,BIZUM
+809,Electric Food Steamer,Kitchen,Indonesia,4,607.08,2025-12-03,TRANSFERENCIA
+810,Organic Baby Carrots,Food - Fresh Produce,Portugal,7,743.98,2025-07-14,TARJETA
+811,Pet Safety Belt for Car,Pets,Czech Republic,17,599.97,2025-05-09,TRANSFERENCIA
+812,Kids' Gardening Tools Set,Toys,China,11,13.3,2025-03-09,TRANSFERENCIA
+813,Adjustable Kneeling Pad,Garden,Indonesia,18,126.5,2025-06-29,BIZUM
+814,Caramelized Onion Dip Mix,Food - Snacks,China,18,242.32,2025-05-27,TRANSFERENCIA
+815,Handmade Leather Wallet,Accessories,Senegal,10,844.95,2025-02-12,BIZUM
+816,Rustic Wooden Picture Frame,Home,Germany,7,701.61,2025-09-10,BIZUM
+817,Chocolate Chip Energy Balls,Food - Snacks,China,4,933.69,2025-02-27,TRANSFERENCIA
+818,Pet Carrier Backpack,Pets,Kazakhstan,10,839.41,2025-09-19,TRANSFERENCIA
+819,Organic Coconut Flour,Food - Baking,United States,11,698.68,2025-03-07,TARJETA
+820,Jalapeño Cornbread,Food - Bakery,Russia,1,899.54,2026-03-12,TARJETA
+821,Coffee Maker,Kitchen,China,4,105.08,2026-01-28,TRANSFERENCIA
+822,Spinach and Cheese Stuffed Shells,Food - Frozen Meals,Cuba,3,14.83,2025-03-08,BIZUM
+823,Coffee Maker,Kitchen,Philippines,3,689.1,2025-05-06,TARJETA
+824,Brazil Nuts,Food - Nuts,Indonesia,12,19.55,2025-01-29,BIZUM
+825,Satin Slip Dress,Clothing - Dresses,Sweden,10,966.86,2025-09-11,TRANSFERENCIA
+826,Chipotle Black Bean Salad,Food - Salads,Colombia,5,785.69,2025-02-08,TARJETA
+827,Rice Pilaf Mix,Food - Grains,China,16,978.88,2025-12-09,TARJETA
+828,Blackberry Jam,Food - Condiments,Honduras,10,797.21,2025-07-26,TRANSFERENCIA
+829,Chicken Fajita Kit,Food - Prepared Foods,Russia,1,728.9,2026-02-19,BIZUM
+830,Pet Hair Vacuum Attachment,Pets,Armenia,11,647.8,2025-01-11,TARJETA
+831,Pumpkin Ice Cream,Food - Frozen Foods,Sweden,5,55.72,2025-07-06,TRANSFERENCIA
+832,Smart Wi-Fi Light Bulbs,Smart Home,Portugal,14,628.89,2025-03-31,TARJETA
+833,Satin Slip Dress,Clothing - Dresses,China,7,303.5,2026-01-05,BIZUM
+834,Creamy Spinach Dip,Food - Prepared Foods,Egypt,17,547.03,2025-01-22,BIZUM
+835,Insulated Lunch Box,Kitchen,United States,7,810.37,2025-01-01,TRANSFERENCIA
+836,Training Soccer Ball,Sports,Macedonia,15,510.2,2026-03-20,BIZUM
+837,Reusable Silicone Food Storage Bags,Kitchen,China,6,970.93,2025-11-02,BIZUM
+838,Roasted Red Pepper Sauce,Food - Sauces,France,6,76.3,2025-03-09,TARJETA
+839,Silicone Stretch Lids,Kitchen,China,7,815.98,2025-03-31,TRANSFERENCIA
+840,Zucchini,Food - Produce,China,8,251.7,2026-01-06,BIZUM
+841,Pumpkin Spice Coffee,Food - Beverages,Sweden,9,618.8,2026-02-10,BIZUM
+842,Personal Safety Alarm,Safety,Portugal,14,5.83,2025-06-06,BIZUM
+843,Bluetooth Car Adapter,Automotive,Mexico,17,372.11,2026-02-03,BIZUM
+844,Instant Mashed Potatoes,Food - Sides,China,1,89.2,2025-04-30,BIZUM
+845,Suede Ankle Booties,Clothing - Footwear,China,7,71.8,2025-01-07,BIZUM
+846,Laundry Detergent,Food - Household,Ivory Coast,1,919.4,2026-02-14,TARJETA
+847,Coconut Macaroons,Food - Confectionery,China,17,11.46,2026-03-06,TARJETA
+848,Lightweight Travel Backpack,Travel,Vietnam,12,5.26,2025-11-29,BIZUM
+849,Almond Flour Tortillas,Food - Baking & Cooking,China,3,691.59,2026-03-13,TARJETA
+850,Salsa Verde,Food - Condiments,Greece,18,647.88,2025-01-26,TRANSFERENCIA
+851,Apple Cinnamon Instant Oatmeal,Food - Cereal,China,6,484.25,2025-12-01,TRANSFERENCIA
+852,Peach Slices (canned),Food - Canned Goods,Panama,12,203.18,2025-05-13,TARJETA
+853,Bluetooth Car Adapter,Automotive,Philippines,16,579.48,2025-04-06,BIZUM
+854,Spice Rack,Kitchen,Albania,1,680.57,2025-09-11,TARJETA
+855,Comfortable Bed Pillow,Home,Indonesia,16,475.8,2025-11-19,TRANSFERENCIA
+856,Decorative LED Neon Sign,Home,Indonesia,9,521.46,2026-02-18,TARJETA
+857,Athletic Compression Tights,Clothing - Activewear,Macedonia,11,323.45,2025-09-16,TRANSFERENCIA
+858,Collapsible Pet Dog Bowl,Pets,Thailand,2,349.45,2025-10-05,TARJETA
+859,Electrolyte Water Bottle,Fitness,Poland,17,205.63,2025-12-26,TRANSFERENCIA
+860,Mashed Sweet Potatoes,Food - Sides,Thailand,13,544.49,2025-01-09,TARJETA
+861,Handheld Shower Head,Bathroom,Indonesia,13,578.49,2025-02-28,TARJETA
+862,Honey Mustard Chicken Breasts,Food - Meat,Poland,3,715.33,2025-04-01,BIZUM
+863,Vegan Caesar Dressing,Food - Condiments,Ukraine,16,175.55,2025-12-16,BIZUM
+864,Portable Charcoal Grill,Outdoor,France,9,727.97,2025-10-07,TARJETA
+865,Honeycrisp Apple Chips,Food - Snacks,France,11,111.75,2025-11-09,BIZUM
+866,Blackberry Jam,Food - Condiments,China,4,924.44,2025-09-12,BIZUM
+867,Chunky Knit Sweater,Clothing - Tops,Russia,6,95.47,2026-02-14,BIZUM
+868,Black Bean Spaghetti,Food - Pasta,Comoros,5,874.11,2025-11-02,BIZUM
+869,Carrot Ginger Soup,Food - Soups,Poland,6,380.05,2025-09-11,BIZUM
+870,Hiking Boots,Footwear,Russia,10,681.93,2025-10-08,BIZUM
+871,Honey BBQ Riblets,Food - Meat,Japan,4,727.75,2026-02-18,BIZUM
+872,Multi-Functional Rice Cooker,Kitchen,South Africa,19,81.4,2025-05-03,TARJETA
+873,Cocktail Shaker and Mixing Glass Set,Kitchen,Indonesia,16,181.33,2025-06-25,TRANSFERENCIA
+874,Hand Mixer,Kitchen,China,15,644.15,2025-05-02,TARJETA
+875,Wireless Security Camera,Home,South Georgia and the South Sandwich Islands,10,758.25,2025-04-18,TRANSFERENCIA
+876,Water Bottle with Built-in Fruit Infuser,Fitness,North Korea,6,68.5,2025-01-07,BIZUM
+877,Pleated Midi Dress,Clothing - Dresses,United States,3,6.2,2025-05-08,TARJETA
+878,Compact Umbrella,Accessories,Cuba,18,673.05,2025-07-14,BIZUM
+879,Beef Stew Meat,Food - Meat,Poland,15,345.2,2025-05-27,TARJETA
+880,Electric Kettle,Kitchen,New Zealand,19,46.85,2026-01-23,TRANSFERENCIA
+881,Beef Stroganoff Meal Kit,Food - Frozen Meals,Croatia,15,874.09,2025-05-26,BIZUM
+882,Herbed Chicken Breast,Food - Meat,Brazil,4,856.2,2025-11-25,BIZUM
+883,Car Trash Can,Automotive,China,16,505.52,2025-12-23,TRANSFERENCIA
+884,Pet Training Pads,Pets,Brazil,17,996.23,2025-04-01,TRANSFERENCIA
+885,Pretzel Bites,Food - Snacks,Russia,6,569.86,2025-03-24,BIZUM
+886,Reusable Silicone Food Storage Bags,Kitchen,Macedonia,8,916.91,2025-01-24,TARJETA
+887,Pet Travel Carrier,Pets,China,18,801.49,2025-07-23,TARJETA
+888,Wall-Mounted Wine Rack,Home,Portugal,4,598.72,2025-01-04,TRANSFERENCIA
+889,Body Pillow Case,Home,Sweden,6,897.95,2025-05-16,TARJETA
+890,Stuffed Grape Leaves,Food - Prepared Foods,China,6,246.23,2025-03-14,BIZUM
+891,Feta Cheese,Food - Dairy,Colombia,9,92.4,2025-12-26,TRANSFERENCIA
+892,Pet Hair Removal Brush,Pets,Mexico,11,765.73,2025-01-28,TRANSFERENCIA
+893,Maple Pecan Oatmeal Cookies,Food - Bakery,Brazil,4,889.19,2025-11-12,TARJETA
+894,Honey Mustard Dip,Food - Condiments,Russia,3,517.96,2025-10-25,TRANSFERENCIA
+895,DIY Organic Gardening Kit,Garden,Poland,20,371.67,2025-07-25,TRANSFERENCIA
+896,Smart Thermostat with Wi-Fi,Smart Home,Panama,9,522.08,2025-05-10,BIZUM
+897,Organic Baby Spinach,Food - Produce,Argentina,7,893.33,2026-02-23,TARJETA
+898,Dried Apricots,Food - Dried Fruits,North Korea,20,363.87,2025-05-24,TRANSFERENCIA
+899,Pasta Primavera,Food - Frozen Foods,Philippines,4,851.23,2025-03-02,TARJETA
+900,Glass Tea Pot,Kitchen,Venezuela,2,102.48,2026-01-18,TRANSFERENCIA
+901,Almond Flour Cookies,Food - Bakery,Portugal,20,317.29,2025-07-08,TARJETA
+902,Cucumber Lime Sparkling Water,Food - Beverages,Vietnam,18,659.01,2025-06-20,BIZUM
+903,Garden Hose Reel,Garden,Sweden,12,725.06,2026-02-05,TARJETA
+904,Pocket Blanket,Outdoor,Brazil,2,467.56,2026-02-07,TARJETA
+905,Portable Jump Starter,Automotive,Peru,2,705.01,2025-08-02,TRANSFERENCIA
+906,Garlic Breadsticks,Food - Sides,Poland,1,20.63,2025-01-27,BIZUM
+907,Caramelized Onion Dip,Food - Dairy,Madagascar,8,993.82,2026-03-12,TARJETA
+908,Chickpea Pancakes,Food - Frozen,Russia,6,402.6,2025-03-09,TARJETA
+909,Pepperoni Pizza Rolls,Food - Snacks,Poland,12,896.42,2025-11-30,TARJETA
+910,Tandoori Chicken Skewers,Food - Meat,Poland,20,719.27,2025-12-24,BIZUM
+911,Eco-Friendly Cleaning Cloths,Home,Barbados,10,653.2,2025-03-16,BIZUM
+912,Memory Card,Storage,Czech Republic,14,803.93,2025-03-07,TARJETA
+913,Pet Nail Clipper,Pets,China,10,833.59,2025-08-02,BIZUM
+914,Vegetable Spiralizer,Kitchen,Thailand,18,441.61,2025-10-14,BIZUM
+915,Mesh Laundry Bags Set,Home,Bulgaria,6,820.06,2025-03-04,TRANSFERENCIA
+916,Salsa Verde,Food - Condiments,France,17,938.32,2026-02-11,TRANSFERENCIA
+917,Multi-Functional Rice Cooker,Kitchen,Portugal,5,117.21,2026-02-15,BIZUM
+918,Guitar Tuner,Music,Philippines,8,237.48,2025-04-30,BIZUM
+919,Puffed Rice Cake,Food - Snacks,Japan,5,137.79,2025-04-28,BIZUM
+920,Vegetarian Stir Fry Sauce,Food - Condiments,El Salvador,2,194.2,2025-06-13,TRANSFERENCIA
+921,Cheesy Broccoli Soup Mix,Food - Soups,Canada,8,941.97,2025-07-29,BIZUM
+922,Kids' Art Easel,Toys,Russia,5,94.32,2025-07-25,TRANSFERENCIA
+923,Cotton Tote Bag Set,Accessories,Indonesia,1,249.12,2026-03-01,BIZUM
+924,Classic Beef Chili,Food - Canned Goods,Finland,13,199.85,2025-07-30,TRANSFERENCIA
+925,Cacao Powder,Food - Baking,Japan,9,304.6,2026-02-21,TRANSFERENCIA
+926,Workstation Laptop Stand,Office,Portugal,7,108.72,2025-07-05,BIZUM
+927,Quality Chef Apron,Kitchen,Portugal,15,212.47,2025-05-09,TARJETA
+928,Puff Pastry,Food - Bakery,Japan,10,347.8,2025-03-03,BIZUM
+929,Pasta (Linguine),Food - Pasta,Indonesia,6,404.57,2025-02-02,TRANSFERENCIA
+930,Compact Portable Grill,Outdoor,Croatia,17,75.45,2026-02-25,TARJETA
+931,Frozen Mixed Berries,Food - Frozen Foods,China,14,502.05,2025-12-17,BIZUM
+932,Mini Projector for Smartphones,Electronics,Philippines,2,388.77,2025-12-14,TARJETA
+933,Personalized Keychain,Accessories,Russia,15,429.63,2025-09-04,BIZUM
+934,Cucumber Relish,Food - Condiments,Indonesia,11,766.4,2025-09-20,TRANSFERENCIA
+935,Mechanical Pencil Set,Office,China,8,209.69,2025-06-02,TARJETA
+936,Peanut Butter Pretzel Nuggets,Food - Snacks,Mexico,20,708.35,2026-03-21,TRANSFERENCIA
+937,Spinach and Cheese Quiche,Food - Prepared Meals,Armenia,5,209.14,2025-12-24,BIZUM
+938,Apple Pie Filling,Food - Canned Goods,Japan,6,287.45,2025-04-19,TRANSFERENCIA
+939,Gluten-Free Bread,Food - Bakery,France,13,450.78,2025-11-01,TARJETA
+940,Insulated Lunch Bag,Kitchen,Indonesia,18,996.75,2025-08-11,TARJETA
+941,Garam Masala Spice Blend,Food - Spices,United States,14,17.62,2025-08-11,TRANSFERENCIA
+942,Folding Exercise Bike,Fitness,China,5,406.29,2026-02-01,TARJETA
+943,Outdoor Folding Table,Outdoor,Brazil,4,169.82,2025-11-30,BIZUM
+944,Eco-Friendly Cleaning Cloths,Home,Peru,15,50.47,2025-04-05,BIZUM
+945,Peach Slices in Syrup,Food - Canned Goods,Peru,16,879.49,2025-05-30,TRANSFERENCIA
+946,Stainless Steel BBQ Grill Set,Outdoor,Malaysia,17,651.13,2025-04-24,BIZUM
+947,Samoas Cookie Mix,Food - Baking,Philippines,2,423.53,2026-01-24,TARJETA
+948,Travel Laundry Bag,Travel,Indonesia,6,64.43,2025-04-18,TARJETA
+949,Wine Decanter,Home,Indonesia,15,138.73,2025-06-08,TRANSFERENCIA
+950,Essential Oil Roller Bottles,Health,Pakistan,10,507.49,2025-10-23,TRANSFERENCIA
+951,Pet Camera with Treat Dispenser,Pets,Azerbaijan,12,572.72,2025-09-19,TARJETA
+952,Dog Training Clicker,Pets,Serbia,3,102.84,2025-07-10,TRANSFERENCIA
+953,USB Wall Charger,Accessories,France,16,457.14,2025-09-05,TRANSFERENCIA
+954,Creamy Garlic Dressing,Food - Condiments,China,10,237.86,2025-08-15,BIZUM
+955,Pet Hair Remover,Pets,China,20,903.65,2025-08-20,TARJETA
+956,Cabbage Slaw Mix,Food - Vegetables,United States,2,278.21,2025-11-30,TRANSFERENCIA
+957,Kids' Building Blocks,Toys,China,9,573.99,2025-08-03,TARJETA
+958,LED Christmas Tree Lights,Home,Norway,16,495.27,2025-11-13,TARJETA
+959,Honey Garlic Sauce,Food - Sauces,Colombia,5,831.62,2025-12-05,TARJETA
+960,Fleece Lined Leggings,Clothing,Ukraine,14,666.69,2026-03-20,BIZUM
+961,Pear and Gorgonzola Salad,Food - Salads,Cuba,13,811.31,2026-02-13,TRANSFERENCIA
+962,Nutty Granola Clusters,Food - Cereal,Portugal,15,38.79,2025-05-05,TRANSFERENCIA
+963,Multifunctional Pocket Tool,Tools,Czech Republic,12,559.63,2026-03-17,BIZUM
+964,Cocktail Shaker and Mixing Glass Set,Kitchen,Philippines,3,402.27,2025-04-20,BIZUM
+965,Chocolate Peanut Butter Cups,Food - Snacks,Indonesia,10,507.76,2025-12-20,TARJETA
+966,Multicolored LED Strip Lights,Home,Belarus,17,812.87,2025-01-10,TARJETA
+967,Chipotle Seasoning Blend,Food - Spices,Indonesia,15,386.05,2026-02-07,TARJETA
+968,Linen Trousers,Clothing - Bottoms,China,11,704.94,2025-06-12,TARJETA
+969,Fitness Mat,Fitness,Indonesia,20,745.37,2025-05-10,BIZUM
+970,LED Flashing Pet Collar,Pets,United States,10,653.26,2025-10-14,TRANSFERENCIA
+971,Sliced Avocado,Food - Produce,Philippines,1,35.31,2026-03-30,TARJETA
+972,Vegetarian Chili,Food - Canned Goods,United States,13,793.25,2025-04-16,BIZUM
+973,Herb-Infused Olive Oil,Food - Oils,China,10,125.62,2025-07-18,BIZUM
+974,Athletic Compression Tights,Clothing - Activewear,Portugal,10,53.75,2025-01-01,TRANSFERENCIA
+975,Garden Tool Belt,Garden,Indonesia,12,971.47,2025-11-25,TRANSFERENCIA
+976,Tomato Paste,Food - Canned Goods,Indonesia,19,254.77,2025-11-27,TARJETA
+977,Caramelized Onion Dip,Food - Dairy,Czech Republic,14,589.52,2026-03-05,BIZUM
+978,Frozen Vegetarian Pizza,Food - Frozen Meals,China,6,787.63,2025-09-13,TRANSFERENCIA
+979,Orange Ginger Vinaigrette,Food - Condiments,Macedonia,2,211.56,2025-06-18,TARJETA
+980,Camping Tent,Outdoor,Croatia,18,514.17,2025-10-17,TARJETA
+981,Handmade Leather Journal,Books,Indonesia,11,724.77,2025-02-24,TARJETA
+982,Flavored Popcorn Mix,Food - Snacks,Brazil,17,82.92,2026-01-11,TARJETA
+983,Coffee Capsule Dispenser,Kitchen,Malta,15,734.0,2026-02-17,BIZUM
+984,Denim Jacket,Clothing - Outerwear,Indonesia,16,396.91,2026-01-01,TARJETA
+985,Spice Rack,Kitchen,Argentina,20,722.42,2025-11-27,BIZUM
+986,Graphic Print Leggings,Clothing - Activewear,Sweden,3,713.18,2026-01-22,BIZUM
+987,Fleece Hoodie,Clothing - Outerwear,Serbia,9,691.79,2025-05-28,TRANSFERENCIA
+988,Spicy Tuna Sushi Kit,Food - Prepared Meals,Venezuela,17,349.25,2025-07-29,BIZUM
+989,Turkey Bacon,Food - Meat,Angola,2,205.38,2025-02-26,BIZUM
+990,Foam Building Blocks for Kids,Toys,South Africa,10,587.49,2025-12-21,TARJETA
+991,Smart Light Switch,Smart Home,Mongolia,2,817.06,2025-01-14,TRANSFERENCIA
+992,Portable USB-C Monitor,Electronics,South Korea,6,768.29,2025-07-15,TARJETA
+993,Classic Slim Fit Shirt,Clothing - Shirts,China,13,369.0,2025-08-23,TARJETA
+994,Chilli Lime Corn on the Cob,Food - Vegetable,China,17,384.97,2026-01-03,TARJETA
+995,Hiking Water Bottle with Filter,Outdoor,Russia,20,287.71,2025-03-24,BIZUM
+996,Portable SSD,Storage,Philippines,8,224.08,2025-11-18,TRANSFERENCIA
+997,Foldable Picnic Table,Outdoor,Vietnam,3,742.62,2025-08-10,BIZUM
+998,Men's Waterproof Hiking Boots,Footwear,Vietnam,13,581.3,2026-02-21,TARJETA
+999,Children's Garden Tool Set,Garden,Brazil,11,436.01,2025-03-03,TRANSFERENCIA
+1000,Coconut Granola,Food - Snacks,Brazil,3,873.86,2025-04-10,TRANSFERENCIA
